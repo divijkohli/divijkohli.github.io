@@ -4,10 +4,15 @@
 
 
 @charset "utf-8";
-$brand-color:  teal;
-// Color scheme for light
-$body-bg: #8399c0;
-$body-bg-dark: #051b42;
+
+// Light theme variables
+$body-bg-light: white;
+$text-color-light: black;
+
+// Dark theme variables
+$body-bg-dark: #051b42; // Dark background color
+$text-color-dark: white;  // Light font color on dark background
+
 // Width of the content area
 $content-width:    800px;
 $on-phone:         450px;
