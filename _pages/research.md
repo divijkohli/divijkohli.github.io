@@ -3,7 +3,8 @@ layout: default  # This specifies the layout to use, usually defined in _layouts
 title: "Research"  # The title of the page, which will be displayed in the browser tab and in site navigation.
 permalink: /research/  # This specifies the URL path for this page. It will be accessible at yoursite.com/about/
 ---
-### Research Interest: Household Finance, Financial Inclusion and Banking
+### Research Interest: 
+### Household Finance, Financial Inclusion and Banking <br>
 
 ## Working Papers:
 ### Pulling the the Plug: Retail Traders and Social Media <br>
