@@ -4,14 +4,12 @@ title: "Research"
 permalink: /research/  
 ---
 
-## Research Interest  
-**Household Finance, Financial Inclusion, and Banking**  
+## Research Interest:  
+Household Finance, Financial Inclusion, and Banking
 
 ---
 
-## Working Papers  
-
-
+## Working Papers:  
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
 with Victor Duarte, Julia Fonseca, and Julian Rief [Draft]( {{ site.baseurl }}/DFKR_2025_03.pdf )  
@@ -37,7 +35,7 @@ Presented at: Financial Management Association 2024 Annual Meeting (coauthor), U
 
 ---
 
-## Works in Progress  
+## Works in Progress:  
 
 ### The Other Half: Monetary Policy Transmission for Households without Mortgages  
 with Justin Mohr and Yucheng Zhou 
