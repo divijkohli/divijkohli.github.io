@@ -8,13 +8,13 @@ published: true
 ---
 <hr style="line-height: 2px; visibility:hidden;" />
 
-#### Hello! I am a Finance Ph.D. Student at the University of Illinois. I am on the job market this year. 
+#### Hello! I am a Finance Ph.D. Student at the University of Illinois at Urbana-Champaign
 <hr style="line-height: 4px; visibility:hidden;" />
 
-#### My CV is linked <a href="{{site.baseurl}}/cv.pdf">here</a>
+#### My CV can be viewed here <a href="{{site.baseurl}}/cv.pdf">here</a>
 <hr style="line-height: 4px; visibility:hidden;" />
 
 
 ## Contact Info:
-### mohr6@illinois.edu
+### divijk2@illinois.edu
 
