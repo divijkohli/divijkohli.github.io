@@ -12,7 +12,7 @@ Household Finance, Financial Inclusion, and Banking
 ## Working Papers:  
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
-with Victor Duarte, Julia Fonseca, and Julian Rief [Draft]( {{ site.baseurl }}/DFKR_2025_03.pdf )  
+with Victor Duarte, Julia Fonseca, and Julian Rief ([Draft]( {{ site.baseurl }}/DFKR_2025_03.pdf ))  
 
 #### Abstract  
 <p align="justify">
@@ -23,7 +23,7 @@ Presented at: University of Illinois at Urbana-Champaign, Georgetown McDonough (
 
 
 ### House of Stolen Cards: Credit Outcomes after Lost/Stolen Credit Cards  
-with Justin Mohr [Draft]( {{ site.baseurl }}/KM_2025_04.pdf )  
+with Justin Mohr ([Draft]( {{ site.baseurl }}/KM_2025_04.pdf ))  
 
 #### Abstract  
 <p align="justify">
