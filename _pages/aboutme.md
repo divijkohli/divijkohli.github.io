@@ -23,6 +23,6 @@ I love cooking, especially North Indian and Indo-Chinese cuisine. I bet I make M
 
 ## Initiative:  
 I have been involved with Indian Graduate Students Association at UIUC in the capacity of President. We’re a vibrant community of Indian graduate students on campus, fostering connections, and creating a shared space for meaningful interactions. Our mission is clear: to be your go-to platform for forging connections, providing valuable insights, and ensuring that your journey in this new chapter of life is nothing short of extraordinary.
-YOu should check out some of the events that we organise including _Diwali on the QUAD_ the biggest campus celebration of Diwali in the US.
+You should check out some of the events that we organise including _Diwali on the QUAD_ the biggest campus celebration of Diwali in the US.
 
 
