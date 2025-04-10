@@ -1,7 +1,7 @@
 ---
-layout: default  
-title: "Research"  
-permalink: /research/  
+title: Research
+permalink: /research/
+layout: splash  
 ---
 
 ## Research Interest:  
