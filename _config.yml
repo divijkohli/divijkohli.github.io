@@ -22,7 +22,7 @@ orcid: "#"
 quora: "#"
 instagram: "#"
 
-
+theme: jekyll-theme-minimal.
 
 # Markdown
 highlighter: rouge
