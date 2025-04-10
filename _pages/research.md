@@ -11,6 +11,8 @@ permalink: /research/
 
 ## Working Papers  
 
+
+
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
 **with Victor Duarte, Julia Fonseca, and Julian Rief**  
 [Draft]( {{ site.baseurl }}/DFKR_2025_03.pdf )  
@@ -25,10 +27,8 @@ Finally, we show that larger medical debts (≥ $500) are also not meaningfully 
 </p>
 
 <p align="justify"><small>
-**Presented at:** *University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor)*
-</small></p>  
+Presented at: University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor)</small></p>  
 
----
 
 ### House of Stolen Cards: Credit Outcomes after Lost/Stolen Credit Cards  
 **with Justin Mohr**  
@@ -46,8 +46,7 @@ Our findings suggest that persistent consumer distrust underscores the need for 
 </p>
 
 <p align="justify"><small>
-**Presented at:** *Financial Management Association 2024 Annual Meeting (coauthor), University of Illinois at Urbana-Champaign*
-</small></p>  
+Presented at: Financial Management Association 2024 Annual Meeting (coauthor), University of Illinois at Urbana-Champaign </small></p>  
 
 ---
 
