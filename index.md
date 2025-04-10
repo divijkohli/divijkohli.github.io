@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile_dk.png
 published: true
 ---
 <hr style="line-height: 2px; visibility:hidden;" />
@@ -11,7 +11,7 @@ published: true
 #### Hello! I am a Finance Ph.D. Student at the University of Illinois at Urbana-Champaign
 <hr style="line-height: 4px; visibility:hidden;" />
 
-#### My CV can be viewed here <a href="{{site.baseurl}}/cv.pdf">here</a>
+#### My CV can be viewed <a href="{{site.baseurl}}/cv.pdf">here</a>
 <hr style="line-height: 4px; visibility:hidden;" />
 
 
