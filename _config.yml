@@ -1,11 +1,11 @@
 ### your site title here 
 
-title: Justin Mohr
-description: UIUC Finance Ph.D. Candidate 
+title: Divij Kohli
+description: Finance Ph.D. Candidate at University of Illinois Urbana-Champaign 
 
 baseurl: "" #name of GitHub repository
-url: "https://jmohr.me" #custom url to be used instead of GitHub repository
-email: "mohr6@illinois.edu"
+url: "https://divijkohli.info" #custom url to be used instead of GitHub repository
+email: "divijk2@illinois.edu"
 
 # Pagination
 paginate: 4
