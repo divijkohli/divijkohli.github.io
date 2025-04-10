@@ -24,7 +24,7 @@ One in seven Americans carry medical debt, with $88 billion reported on consumer
 Presented at: University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor)</small></p>  
 
 
-### House of Stolen Cards: Credit Outcomes after Lost/Stolen Credit Cards  
+### House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?
 with Justin Mohr ([Draft]( {{ site.baseurl }}/KM_2025_04.pdf ))  
 
 #### Abstract  
