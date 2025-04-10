@@ -17,7 +17,9 @@ with Victor Duarte, Julia Fonseca, and Julian Rief ([Draft]( {{ site.baseurl }}/
 #### Abstract  
 <p align="justify">
 One in seven Americans carry medical debt, with $88 billion reported on consumer credit reports. In April 2023, the three major credit bureaus stopped reporting medical debts below $500. We study the effects of this information deletion on consumer credit scores, credit limits and utilization, repayment behavior, and payday borrowing. Using a machine learning model, we show that small medical debts are not meaningfully predictive of defaults, suggesting their deletion should have minimal effect on lending decisions. We test this prediction using two complementary research designs. First, a regression discontinuity analysis comparing individuals just above and below the $500 threshold finds no direct benefits from the information deletion, ruling out small changes in credit access and financial health. Second, to assess potential indirect effects, we classify consumers based on whether their predicted probability of default increases or decreases when medical debts are deleted. A difference-in-differences analysis comparing these groups before and after the 2023 policy change reveals no evidence of negative spillover effects. Finally, we show that larger medical debts (≥ $500) are also not meaningfully predictive of default, suggesting that eliminating medical debts entirely from credit reports, as planned under a January 2025 decision by the Consumer Financial Protection Bureau, is unlikely to affect credit outcomes. </p>
-![Medical Debt Paper Chart]( {{ site.baseurl }}/assets/images/DFKR.png )
+<div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/DFKR.png" alt="" width="600">
+</div>
 <p align="justify"><small>
 Presented at: University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor)</small></p>  
 
