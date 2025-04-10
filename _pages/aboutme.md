@@ -1,7 +1,7 @@
 ---
 layout: default  
-title: "Research"  
-permalink: /research/  
+title: "About Me"  
+permalink: /aboutme/  
 ---
 
 ## Research Interest:  
