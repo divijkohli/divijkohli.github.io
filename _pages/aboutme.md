@@ -23,5 +23,5 @@ YOu should check out some of the events that we organise including _Diwali on th
 
 ---
 
-## Cooking Skills:  
+## Cooking:  
 I love cooking, especially North Indian and Indo-Chinese cuisine. I bet I make Michelin star grade Rajma Chawal.
