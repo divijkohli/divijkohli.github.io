@@ -8,10 +8,10 @@ published: true
 ---
 <hr style="line-height: 2px; visibility:hidden;" />
 
-#### Hello! I am studying Finance at the Gies College of Business, UIUC.
+##### I am a third year Finance doctoral candidate at the Gies College of Business, UIUC and a proud Madras School of Economics and University of Delhi alumnus.
 <hr style="line-height: 4px; visibility:hidden;" />
 
-#### I am interested in Household Finance, Financial Inclusion and Banking.
+##### My research interest lie in the area of Household Finance, Financial Inclusion and Banking.
 <hr style="line-height: 4px; visibility:hidden;" />
 
 #### My CV can be viewed <a href="{{site.baseurl}}/cv.pdf">here</a>
@@ -19,5 +19,6 @@ published: true
 
 
 ## Contact Info:
-### divijk2@illinois.edu
+### Office Address: 607 E Gregory Dr, Champaign, IL 61820
+### Email: divijk2@illinois.edu
 
