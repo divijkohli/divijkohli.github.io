@@ -21,34 +21,34 @@ One in seven Americans carry medical debt, with $88 billion reported on consumer
  
 
 ### House of Stolen Cards: Credit Outcomes after Lost/Stolen Credit Cards <br>
-<i>with Divij Kohli</i> 
-<a href="https://www.dropbox.com/scl/fi/gyuyhpakgubqk1gu5ksdc/house_of_stolen_cards_linked.pdf?rlkey=73z1qm9coo7u4tfa6poawicoy&dl=0">(Draft)</a> <br>
+<i>with Justin Mohr</i> <a href="{{site.baseurl}}/KM_2025_04.pdf">(Draft)</a>
+
 
 #### Abstract:
 <p align="justify">
-Research on payment security and credit card fraud has been constrained by data
-limitations. Exploiting a quirk of credit reporting, we identify credit cards exposed to
-fraud in credit bureau data. Using a matched-sample difference-in-differences approach,
-we find that lenders restricted credit supply to individuals exposed to fraud, while
-consumer demand for credit leveled off post-fraud. We then study the impact of a
-sudden U.S. government initiative promoting the adoption of more secure chip-enabled
-cards. Following this intervention, lenders ceased restricting credit supply to fraud exposed
-consumers. However, despite enhanced payment security, consumers continue
-to reduce their credit demand after fraud exposure. Our findings suggest that improved
-payment security mitigates fraud risks for lenders, but persistent consumer distrust
-about payment security underscores the need for further policy innovations, such as
-one-time passcodes for credit card transactions.</p>
+Credit card fraud is the most common type of identity fraud in the U.S. with a cost
+of over $11.64 billion. In 2014, the U.S. government pushed for widespread adoption
+of more secure chip-enabled credit cards to safeguard consumers from financial fraud
+and improve confidence in the marketplace. We study the effects of this technological
+innovation in payment security on household credit outcomes. Using a matched sample
+staggered difference-in-differences event study, we show that before this intervention
+fraud exposed consumers faced decline in access to credit. Post this innovation, consumers
+see greater credit availability. We then examine consumer behavior associated
+with exposure to fraud and find that consumers reduce their credit demand and face
+increased financial distress. These findings do not change following the innovation.
+Heterogeneity analysis shows that low credit score households are more likely to have
+higher decline in credit demand and increased financial distress. Our findings suggest
+that persistent consumer distrust underscores the need for further policy innovations,
+such as one-time passcodes for credit card transactions and sufficient financial education
+to consumers.</p>
 
  <p align="justify"> <small>
- Presented at <i> Financial Management Association Annual Meeting , University of Illinois at Urbana-Champaign (coauthor) </i> </small> </p>
+ Presented at <i> Financial Management Association 2024 Annual Meeting (coauthor), University of Illinois at Urbana-Champaign </i> </small> </p>
 
 ## Works in Progress:
-### The Value of Truth in Social Media: Retail Traders and Reddit Ban Bets <br>
-<i>with Corbin Fox</i> 
-
 ### The Other Half: Monetary Policy Transmission for Households without Mortgages <br>
-<i>with Yucheng Zhou and Divij Kohli</i> 
+<i>with Justin Mohr and Yucheng Zhou</i> 
  <p align="justify"> <small>
- Presented at <i> Financial Management Association Early Ideas (coauthor)</i> </small> </p>
+ Presented at <i> Financial Management Association Early Ideas</i> </small> </p>
 
 
