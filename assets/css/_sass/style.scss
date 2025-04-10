@@ -8,15 +8,21 @@ body {
   margin: 0 auto;
   line-height: $base-line-height;
   font-size: $base-font-size;
-  color: $text-color;
-  background-color: $body-bg;
+  color: $text-color; // Default text color
+  background-color: $body-bg; // Default background color
   padding: 2em 1em;
   text-rendering: optimizeLegibility;
   height: 100%;
+  transition: background-color 0.3s ease, color 0.3s ease; // Smooth transition for theme change
+
+  // Light theme
+  background-color: $body-bg-light; // Light background (white)
+  color: $text-color-light;         // Light theme text color (black)
 
   @media (prefers-color-scheme: dark) {
-    background-color: $body-bg-dark;
-    color: $text-color-dark;
+    // Dark theme
+    background-color: $body-bg-dark; // Dark background
+    color: $text-color-dark;         // Dark theme text color (white)
   }
 }
 
@@ -28,21 +34,17 @@ h1,h2,h3,h4,h5,h6 {
   text-transform: inherit;
 }
 
-
 a {
   color: $brand-color;
   text-decoration: none;
-  &:hover{
+  &:hover {
     color: $text-color;
 
     @media (prefers-color-scheme: dark) {
       color: $text-color-dark;
     }
-
   }
 }
-
-
 
 p a {
   color: $text-color;
@@ -54,22 +56,20 @@ p a {
   -webkit-box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
   box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
 
-
   -webkit-transition: box-shadow ease 1s;
   -moz-transition: box-shadow ease 1s;
   transition: box-shadow ease 1s;
+
   &:hover {
     color: lighten($background-color, 50%);
     -webkit-box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
     box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
-
   }
 
   @media (prefers-color-scheme: dark) {
     color: $text-color-dark;
   }
 }
-
 
 figure {
   margin: 0;
@@ -106,7 +106,6 @@ blockquote {
   font-style: italic;
 }
 
-
 .headline, .post-headline {
   font-size: 2em;
   margin-bottom: -0.4em;
@@ -138,12 +137,6 @@ blockquote {
   }
 }
 
-
-/* Add video class for iframes to make them responsive */
-.video {
-  width: 100%;
-}
-
 /* Add video class for iframes to make them responsive */
 .video {
   width: 100%;
@@ -160,6 +153,7 @@ blockquote {
 .divider {
   margin: 1em;
 }
+
 .scroll {
   white-space: nowrap;
   overflow-x: auto;
@@ -177,9 +171,9 @@ blockquote {
 .scroll::-webkit-scrollbar-thumb:hover {
   background: #555; /* Color of the scrollbar thumb on hover */
 }
-.scroll a { margin: 0; } /* Remove all space between links */
-
-
+.scroll a {
+  margin: 0;
+}
 
 /* Button */
 .simplebutton {
@@ -198,8 +192,8 @@ blockquote {
   background: #fff;
   color: #222222;
   :hover {
-      border-color: #000000;
-      background: #f7f7f7;
+    border-color: #000000;
+    background: #f7f7f7;
   }
 }
 
@@ -207,5 +201,3 @@ blockquote {
 .article-list {
   margin: 1em 0;
 }
-
-
