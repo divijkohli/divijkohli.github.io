@@ -8,10 +8,11 @@ published: true
 ---
 <hr style="line-height: 2px; visibility:hidden;" />
 
-##### I am a third year Finance doctoral candidate at the Gies College of Business, UIUC. A proud Madras School of Economics and University of Delhi alumnus.
+##### I am a third year Finance doctoral candidate at the Gies College of Business, University of Illinois Urbana Champaign. 
+My research interest lie in the area of Household Finance, Financial Inclusion and Banking.
 <hr style="line-height: 4px; visibility:hidden;" />
 
-##### My research interest lie in the area of Household Finance, Financial Inclusion and Banking.
+##### I am proud Madras School of Economics and University of Delhi alumnus. Before starting doctoral studies, I worked in industry with Barclays, McKinsey and EY.
 <hr style="line-height: 4px; visibility:hidden;" />
 
 ## Contact Info:
