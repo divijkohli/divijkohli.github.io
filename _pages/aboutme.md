@@ -4,12 +4,12 @@ title: "About Me"
 permalink: /aboutme/  
 ---
 
-## Research Interest:  
-Household Finance, Financial Inclusion, and Banking
+## Background:  
+I was born in the small city of Kakrauli, Rajasthan. Soon we moved to New Delhi/ नई दिल्ली, where I stayed till my undergraduate degree.
 
 ---
 
-## Working Papers:  
+## Travel Interest:  
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
 with Victor Duarte, Julia Fonseca, and Julian Rief ([Draft]( {{ site.baseurl }}/DFKR_2025_03.pdf ))  
