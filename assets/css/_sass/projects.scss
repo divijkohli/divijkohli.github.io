@@ -39,7 +39,7 @@
 }
 
 .projectTile a span h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   padding: 1rem;
   color: $projectbox-text;
 }
@@ -53,7 +53,7 @@
 }
 
 .projectTile:hover a span p {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   display: flex;
   padding: 1rem;
   color: $projectbox-text;
@@ -67,7 +67,7 @@
     }
 
     .projectTile a span h2 {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
     }
 
     .projectTile:hover a span p {
