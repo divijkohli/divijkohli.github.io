@@ -17,9 +17,11 @@ Household Finance, Financial Inclusion, and Banking
 
 #### References:
 Professor Julia Fonseca, Associate Professor of Finance, Gies College of Business
+
 Email: juliaf@illinois.edu
 
 Professor Julian Rief, Associate Professor, Gies College of Business
+
 Email: jrief@illinois.edu
 
 #### Education:
