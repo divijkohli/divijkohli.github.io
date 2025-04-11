@@ -14,8 +14,8 @@ permalink: /aboutme/
 
 ## यात्रा रुचि/ Travel Interest:  
 
-Since 2019, I have been doing a lot of solo backpacking all across the world. Apart from travelling in India and USA, I have travelled across Germany, Austria, Hungary, Budapest, Hong Kong, Mexico and Thailand.
-I have my eyes set on Central America as well as Vietnam and China for my next trips.
+<p align="justify"> Since 2019, I have been doing a lot of solo backpacking all across the world. Apart from travelling in India and USA, I have travelled across Germany, Austria, Hungary, Budapest, Hong Kong, Mexico and Thailand.
+I have my eyes set on Central America as well as Vietnam and China for my next trips. </p>
   <div style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/travel1.jpg" alt="" width="800">
 </div>
@@ -29,8 +29,8 @@ I have my eyes set on Central America as well as Vietnam and China for my next t
 
 
 ## पहल/ Initiative:  
-I have been involved with Indian Graduate Students Association at UIUC in the capacity of President. We’re a vibrant community of Indian graduate students on campus, fostering connections, and creating a shared space for meaningful interactions.
-You should check out some of the events that we organize including _Diwali on the QUAD_; the biggest campus celebration of Diwali in the US.
+<p align="justify"> I have been involved with Indian Graduate Students Association at UIUC in the capacity of President. We’re a vibrant community of Indian graduate students on campus, fostering connections, and creating a shared space for meaningful interactions.
+You should check out some of the events that we organize including _Diwali on the QUAD_; the biggest campus celebration of Diwali in the US. </p>
 <div style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/diwali2.png" alt="" width="800">
 </div>
