@@ -30,7 +30,7 @@ I have my eyes set on Central America as well as Vietnam and China for my next t
 
 ## पहल/ Initiative:  
 <p align="justify"> I have been involved with Indian Graduate Students Association at UIUC in the capacity of President. We’re a vibrant community of Indian graduate students on campus, fostering connections, and creating a shared space for meaningful interactions.
-You should check out some of the events that we organize including *Diwali on the QUAD*; the biggest campus celebration of Diwali in the US. Follow us on Instagram 
+You should check out some of the events that we organize including **Diwali on the QUAD**; the biggest campus celebration of Diwali in the US. Follow us on Instagram 
     <a href="https://www.instagram.com/igsa_uiuc" target="_blank" style="color: #E4405F; text-decoration: none;">
         @igsa_uiuc
     </a>.
