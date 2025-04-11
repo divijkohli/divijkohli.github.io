@@ -27,7 +27,16 @@ h1,h2,h3,h4,h5,h6 {
   margin: 0;
   text-transform: inherit;
 }
+.post-headline {
+    display: flex;
+    justify-content: space-between; /* Aligns left and right */
+    font-size: 32px; /* Adjust size if needed */
+    font-weight: bold;
+}
 
+.title-left, .title-right {
+    color: crimson; /* Changes both names to crimson red */
+}
 
 a {
   color: $brand-color;
