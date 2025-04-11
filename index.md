@@ -13,7 +13,7 @@ My research interests lie in the area of Household Finance, Financial Inclusion 
 <hr style="line-height: 4px; visibility:hidden;" />
 
 #### Research Interests:
-Household Finance, Financial Inclusion and Banking
+Household Finance, Financial Inclusion, and Banking
 
 #### Education:
 PhD. Finance, Gies College of Business, UIUC, 2022-2027 (Expedcted)
