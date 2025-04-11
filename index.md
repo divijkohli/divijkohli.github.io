@@ -12,10 +12,8 @@ I am a third year Finance doctoral candidate at the Gies College of Business, Un
 My research interests lie in the area of Household Finance, Financial Inclusion and Banking. I have MSc Finance from Madras School of Economics and BSc (Hons.) Mathematics from University of Delhi. Before starting doctoral studies, I worked in industry with Barclays, McKinsey, and EY. 
 <hr style="line-height: 4px; visibility:hidden;" />
 
-#### Contact Info:
-Office Address: 607 E Gregory Dr, Champaign, IL 61820
-
-Email: divijk2@illinois.edu
+#### Research Interests:
+Household Finance, Financial Inclusion and Banking
 
 #### Education:
 PhD. Finance, Gies College of Business, UIUC 2022-2027 (Expedcted)
@@ -23,3 +21,8 @@ PhD. Finance, Gies College of Business, UIUC 2022-2027 (Expedcted)
 MSc. Applied Quantitative Finance, Madras School of Economics, 2015-2017
 
 BSc. (Hons) Mathematics, University of Delhi, 2011-2014
+
+#### Contact Info:
+Office Address: 607 E Gregory Dr, Champaign, IL 61820
+
+Email: divijk2@illinois.edu
