@@ -76,8 +76,14 @@ figure {
 }
 
 img {
-  max-width: 100%;
-}
+	max-width: 100%;
+    border-radius: 0%;
+
+    @include breakpoint($large) {
+	  padding: 0px;
+    }
+  }
+
 
 pre,
 code {
