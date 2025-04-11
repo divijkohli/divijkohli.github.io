@@ -9,7 +9,8 @@ published: true
 <hr style="line-height: 2px; visibility:hidden;" />
 
 <p align="justify"> Welcome to my website, I am a third year Finance doctoral candidate at the Gies College of Business, University of Illinois Urbana-Champaign. 
-My research interests lie in the area of Household Finance, Financial Inclusion, and Banking. I have MSc Finance from Madras School of Economics and BSc (Hons.) Mathematics from University of Delhi. Before starting doctoral studies, I worked in industry with Barclays, McKinsey, and EY. </p>
+My research interests lie in the area of Household Finance, Financial Inclusion, and Banking. In particular, my research examines the impact of technological innovations and financial
+policies in shaping consumer credit markets, consumer behavior, and fostering entrepreneurship. I have MSc Finance from Madras School of Economics and BSc (Hons.) Mathematics from University of Delhi. Before starting doctoral studies, I worked in industry with Barclays, McKinsey, and EY. </p>
 
 <hr style="line-height: 2px; visibility:hidden;" />
 
