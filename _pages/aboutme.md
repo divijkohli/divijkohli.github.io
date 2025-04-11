@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 
 ## पृष्ठभूमि/ Background:  
-I was born in the small city of Kakrauli, Rajasthan. Soon we moved to New Delhi/ नई दिल्ली, where I stayed till compeletion of my undergraduate degree in Mathematics from University of Delhi. I spent about two years in Chennai for masters in Finance from Madras School of Economics. I then moved to Mumbai and Bengaluru for work. Currently I am in Urbana-Champaign, Illinois for my doctoral studies.
+I was born in a small village near the city of Kakrauli, Rajasthan. Soon we moved to New Delhi/ नई दिल्ली, where I stayed till compeletion of my undergraduate degree in Mathematics from University of Delhi. I spent about two years in Chennai for masters in Finance from Madras School of Economics. I then moved to Mumbai and Bengaluru for work. During 2020-21, I realised I was passionate about bringing social good through research and teaching. Therefore, I decided to pursue a career in academia. Currently I am in Urbana-Champaign, Illinois for my doctoral studies.
 <div style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/delhi.jpg" alt="" width="800">
 </div>
