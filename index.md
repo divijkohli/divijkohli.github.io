@@ -15,6 +15,15 @@ My research interests lie in the area of Household Finance, Financial Inclusion,
 #### Research Interests:
 Household Finance, Financial Inclusion, and Banking
 
+#### References:
+Professor Julia Fonseca, Associate Professor of Finance, Gies College of Business
+
+Email: juliaf2@illinois.edu
+
+Professor Julian Rief, Associate Professor, Gies College of Business
+
+Email: jrief@illinois.edu
+
 #### Education:
 PhD. Finance, Gies College of Business, UIUC, 2022-2027 (Expected)
 
