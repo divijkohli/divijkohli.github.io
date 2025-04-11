@@ -6,17 +6,17 @@ $base-line-height: 1.7;
 
 $spacing-unit:     30px;
 $light-gray: gray;
-$text-color:       #333;
+$text-color:       #333333;
 $background-color: #fdfdfd;
-$brand-color:      #a15306;
-$projectbox-text:  #1e2126;
+$brand-color:      #ff0000;
+$projectbox-text:  #333333;
 
-// Color scheme for light
-$body-bg: #b0c4de;
-$projectbox: lighten(#98a0ac, 2%);
-$text-color: #333;
+ // Color scheme for light
+ $body-bg:#fdfdfd;
+ $projectbox: lighten(#000000, 2%);
+ $text-color: #333333;
 
-// Color scheme for dark modes
-$body-bg-dark: #022342;
-$projectbox-dark: lighten(#98a0ac, 2%);
-$text-color-dark: #98a0ac;
+ // Color scheme for dark modes
+  $body-bg-dark: #fdfdfd;
+ $projectbox-dark: lighten(#fdfdfd;, 2%);
+ $text-color-dark: #333333;
