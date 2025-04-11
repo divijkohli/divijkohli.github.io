@@ -11,7 +11,7 @@ published: true
 I am a third year Finance doctoral candidate at the Gies College of Business, University of Illinois Urbana Champaign. 
 My research interests lie in the area of Household Finance, Financial Inclusion and Banking. I have MSc Finance from Madras School of Economics and BSc (Hons.) Mathematics from University of Delhi. Before starting doctoral studies, I worked in industry with Barclays, McKinsey, and EY. 
 <hr style="line-height: 4px; visibility:hidden;" />
-image: profile_dk.png
+
 #### Contact Info:
 Office Address: 607 E Gregory Dr, Champaign, IL 61820
 
