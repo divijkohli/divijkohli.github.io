@@ -38,6 +38,9 @@ h1,h2,h3,h4,h5,h6 {
     color: #841808; /* Changes both names to red */
     font-size: 28px; /* Reduce individual text size */
 }
+.description {
+    font-size: 20px; /* Adjust as needed */
+}
 
 a {
   color: $brand-color;
