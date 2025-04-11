@@ -19,6 +19,26 @@ $on-laptop:        1200px;
         @content;
     }
 }
+// Make avatar larger in author sidebar
+.author__avatar {
+
+  img {
+	max-width: 100%;
+    border-radius: 0%;
+
+    @include breakpoint($large) {
+	  padding: 0px;
+    }
+  }
+}
+
+// Remove fading from author sidebar
+.sidebar {
+
+  @include breakpoint($large) {
+    opacity: 1;
+  }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Do not make any changes to this file. Go to /_sass and find the appropriate SCSS file and make changes there.
