@@ -4,7 +4,7 @@ permalink: /research/
 layout: default  
 
 ---
-
+<hr style="line-height: 2px; visibility:hidden;" />
 ## Research Interests:  
 Household Finance, Financial Inclusion, and Banking
 
