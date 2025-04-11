@@ -9,15 +9,15 @@ $light-gray: gray;
 $text-color:       #333;
 $background-color: #fdfdfd;
 $brand-color:      #a15306;
-$projectbox-text:  #1e2126;
+$projectbox-text:  #fdfdfd;
 
 // Color scheme for light
-$body-bg: #b0c4de;
+$body-bg: #fdfdfd;
 $projectbox: lighten(#98a0ac, 2%);
 $text-color: #333;
 
 // Color scheme for dark modes
-$body-bg-dark: #022342;
-$projectbox-dark: lighten(#98a0ac, 2%);
+$body-bg-dark: #fdfdfd;
+$projectbox-dark: lighten(#fdfdfd;, 2%);
 $text-color-dark: #98a0ac;
 
