@@ -30,13 +30,13 @@ h1,h2,h3,h4,h5,h6 {
 .post-headline {
     display: flex;
     justify-content: space-between; /* Aligns left and right */
-    font-size: 24px; /* Adjust size if needed */
+    font-size: 28px; /* Adjust size if needed */
     font-weight: bold;
 }
 
 .title-left, .title-right {
     color: #841808; /* Changes both names to red */
-    font-size: 24px; /* Reduce individual text size */
+    font-size: 28px; /* Reduce individual text size */
 }
 
 a {
