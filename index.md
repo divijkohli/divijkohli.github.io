@@ -17,3 +17,7 @@ Office Address: 607 E Gregory Dr, Champaign, IL 61820
 
 Email: divijk2@illinois.edu
 
+#### Education:
+PhD. Finance, Gies College of Business, UIUC 2022-2027 (Expedcted)
+MSc. Applied Quantitative Finance, Madras School of Economics, 2015-2017
+BSc. (Hons) Mathematics, University of Delhi, 2011-2014
