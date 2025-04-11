@@ -16,7 +16,7 @@ My research interests lie in the area of Household Finance, Financial Inclusion,
 Household Finance, Financial Inclusion, and Banking
 
 #### Education:
-PhD. Finance, Gies College of Business, UIUC, 2022-2027 (Expedcted)
+PhD. Finance, Gies College of Business, UIUC, 2022-2027 (Expected)
 
 MSc. Applied Quantitative Finance, Madras School of Economics, 2015-2017
 
