@@ -5,7 +5,7 @@ layout: default
 
 ---
 
-## Research Interest:  
+## Research Interests:  
 Household Finance, Financial Inclusion, and Banking
 
 ---
