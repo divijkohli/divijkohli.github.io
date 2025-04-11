@@ -6,7 +6,7 @@
     margin-right: 1rem;
     margin-bottom: 1rem;
     border-radius: 0; /* Ensures a rectangular shape */
-    width: 250px; /* Adjust size */
+    width: 350px; /* Adjust size */
     height: auto; /* Maintains aspect ratio */
 }
 
@@ -23,7 +23,7 @@
   @media screen and (max-width: $on-phone){
 
     .profile {
-    width: 300px; /* Adjust as needed */
+    width: 400px; /* Adjust as needed */
     height: auto;
 }
 
