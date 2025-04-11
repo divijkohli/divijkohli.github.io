@@ -34,7 +34,7 @@ Credit card fraud is the most common type of identity fraud in the U.S., with a 
 </p>
 ![Medical Debt Paper Chart]( {{ site.baseurl }}/assets/images/KM.png )
 <p align="justify"><small>
-Presented at: Financial Management Association 2024 Annual Meeting (coauthor), University of Illinois at Urbana-Champaign </small></p>  
+Presented at: Financial Management Association 2024 (coauthor), University of Illinois at Urbana-Champaign </small></p>  
 
 ---
 
@@ -44,5 +44,5 @@ Presented at: Financial Management Association 2024 Annual Meeting (coauthor), U
 with Justin Mohr and Yucheng Zhou 
 
 <p align="justify"><small>
-Presented at: Financial Management Association Early Ideas
+Presented at: Financial Management Association Early Ideas 2024
 </small></p>  
