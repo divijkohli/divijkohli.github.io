@@ -19,6 +19,18 @@ $on-laptop:        1200px;
         @content;
     }
 }
+.scroll-hidden {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* iOS smooth scroll */
+}
+
+/* Hide scrollbar */
+.scroll-hidden::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
+.scroll-hidden {
+  -ms-overflow-style: none;  /* IE/Edge */
+  scrollbar-width: none;     /* Firefox */
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Do not make any changes to this file. Go to /_sass and find the appropriate SCSS file and make changes there.
