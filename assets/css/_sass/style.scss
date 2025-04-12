@@ -41,7 +41,9 @@ h1,h2,h3,h4,h5,h6 {
 .description {
     font-size: 14px; /* Adjust as needed */
 }
-
+.site-description {
+  margin-top: 10px;
+}
 a {
   color: $brand-color;
   text-decoration: none;
