@@ -10,7 +10,7 @@ permalink: /aboutme/
 
 
 
-<p align="justify"> I am a proud grandchild of survivors of Punjab's partition. Both my maternal and paternal grandparents were victim of the senseless division of western and eastern side of Punjab. They had to flee from their ancestral land, leaving behind everything our forefathers built, to reach safely to India after 1947. Their collective experience has always guided me and heavily influenced my world-view.  </p>
+<p align="justify"> I am a proud grandchild of survivors of Punjab's partition. Both my maternal and paternal grandparents were victim of the senseless division of western and eastern side of Punjab. They had to flee from their ancestral land, leaving behind everything our forefathers built, to reach safely to India in 1947. Their collective experience has always guided me and heavily influenced my world-view.  </p>
 <div style="text-align: center;"> 
     <img src="{{ site.baseurl }}/assets/images/delhi.jpg" alt="" width="800">
 </div>
