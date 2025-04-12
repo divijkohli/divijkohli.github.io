@@ -6,7 +6,10 @@ permalink: /aboutme/
 <hr style="line-height: 2px; visibility:hidden;" />
 
 ## पृष्ठभूमि/ Background:  
-<p align="justify"> I was born in a small village near the city of Kakrauli, Rajasthan. Soon we moved to New Delhi/ नई दिल्ली, where I stayed till compeletion of my undergraduate degree in Mathematics from University of Delhi. I spent about two years in Chennai for masters in Finance from Madras School of Economics. I then moved to Mumbai and Bengaluru for work. During 2020-21, I realised I was passionate about bringing social good through research and teaching. Therefore, I decided to pursue a career in academia. At present I am in Urbana-Champaign, Illinois for my doctoral studies. </p>
+<p align="justify"> I was born in a small village near the city of Kakrauli, Rajasthan. Soon we moved to New Delhi/ नई दिल्ली, where I stayed till compeletion of my undergraduate degree in Mathematics from University of Delhi. I spent about two years in Chennai for masters in Finance from Madras School of Economics. I then moved to Mumbai and Bengaluru for work. 
+I am a proud grandchild of survivors of partion of Punjab. Both my maternal and paternal grandparents were victim of the senseless division of western and eastern side of Punjab. They had to flee from their ancestral land, leaving behind evrything our forefathers built, to reach safely to India after 1947. Their collective experience has always guided me and heavily influenced my world-view. 
+    
+During 2020-21, I realised I was passionate about bringing social good through research and teaching. Therefore, I decided to pursue a career in academia. At present I am in Urbana-Champaign, Illinois for my doctoral studies. </p>
 <div style="text-align: center;"> 
     <img src="{{ site.baseurl }}/assets/images/delhi.jpg" alt="" width="800">
 </div>
