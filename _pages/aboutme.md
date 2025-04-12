@@ -12,7 +12,7 @@ permalink: /aboutme/
 I am a proud grandchild of survivors of partion of Punjab. Both my maternal and paternal grandparents were victim of the senseless division of western and eastern side of Punjab. They had to flee from their ancestral land, leaving behind evreything our forefathers built, to reach safely to India after 1947. Their collective experience has always guided me and heavily influenced my world-view. 
 
     
-During 2020-21, I realized I was passionate about bringing social good through research and teaching. Therefore, I decided to pursue a career in academia. At present I am in Urbana-Champaign, Illinois for my doctoral studies. </p>
+During 2020-21, I realized I was passionate about bringing social good through research and teaching. Therefore, I decided to pursue a career in academia. At present, I am in Urbana-Champaign, Illinois for my doctoral studies. </p>
 <div style="text-align: center;"> 
     <img src="{{ site.baseurl }}/assets/images/delhi.jpg" alt="" width="800">
 </div>
