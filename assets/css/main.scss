@@ -31,6 +31,7 @@ $on-laptop:        1200px;
 .scroll-hidden {
   -ms-overflow-style: none;  /* IE/Edge */
   scrollbar-width: none;     /* Firefox */
+    }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Do not make any changes to this file. Go to /_sass and find the appropriate SCSS file and make changes there.
