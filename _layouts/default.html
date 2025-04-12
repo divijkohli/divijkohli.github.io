@@ -28,6 +28,18 @@
     </head>
 
     <body>
+        <body>
+
+  <!-- Site title and subtitle -->
+  <h1 class="post-headline">
+    <span class="title-left">{{ site.title }}</span>
+    <span class="title-right">{{ site.subtitle }}</span>
+  </h1>
+
+  <!-- Site description -->
+  <h3 class="post-description">{{ site.description }}</h3>
+
+  {% include navigation.html %}
         <main>
             <article>
                 {{ content }}
