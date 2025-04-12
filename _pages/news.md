@@ -5,6 +5,11 @@ permalink: /news/
 ---
 
 <hr style="line-height: 2px; visibility:hidden;" />
+
+## Research Update:  
+04/2025:**NEW WORKING  PAPER:** **The Effects of Deleting Medical Debt from Consumer Credit Reports** is now posted in NBER's working paper series
+
+---
 ## Conferences:  
 05/2025: **House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?** will be presented at Boulder Summer Conference on Consumer Financial Decision Making
 
