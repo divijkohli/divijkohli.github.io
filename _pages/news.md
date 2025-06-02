@@ -28,7 +28,9 @@ Now part of the NBER Working Paper Series.
 ---
 
 ## Honors & Fellowships  
-
+**May 2025**  
+-  2025 **Jagdish N. Sheth** Fellowship for academic excellence
+  
 **December 2024**  
 - Included on the **List of Instructors Rated Excellent by Their Students** for FIN 221  
 
