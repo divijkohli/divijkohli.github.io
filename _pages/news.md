@@ -22,7 +22,7 @@ Now part of the NBER Working Paper Series.
 
 **October 2024**  
 📌 *Financial Management Association (FMA) 2024*  
-- **House of Stolen Cards** – Main Session  
+- **House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?** – Main Session  
 - **The Other Half: Monetary Policy Transmission for Households without Mortgages** – Early Ideas Session
 
 ---
