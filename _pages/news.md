@@ -8,8 +8,7 @@ permalink: /news/
 
 ## Research Update  
 **April 2025**  
-📄 **New Working Paper:**  
-<a href="https://www.nber.org/papers/w33644.pdf" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a> now part of the NBER Working Paper Series.
+**New Working Paper:**  <a href="https://www.nber.org/papers/w33644.pdf" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a> now part of the NBER Working Paper Series.
 
 ---
 
