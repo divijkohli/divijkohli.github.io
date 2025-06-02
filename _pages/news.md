@@ -6,24 +6,34 @@ permalink: /news/
 
 <hr style="line-height: 2px; visibility:hidden;" />
 
-## Research Update:  
-04/2025: **NEW WORKING  PAPER:** <a href="https://www.nber.org/papers/w33644" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a> is now added to NBER's working paper series
+## 🧠 Research Update  
+**April 2025**  
+📄 **New Working Paper:**  
+<a href="https://www.nber.org/papers/w33644.pdf" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a>  
+Now part of the NBER Working Paper Series.
 
 ---
-## Conferences:  
-05/2025: **House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?** will be presented at Boulder Summer Conference on Consumer Financial Decision Making
 
+## 🎤 Conferences  
 
-10/2024: **House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?** presented at Financial Management Association 2024
+**May 2025**  
+📌 *Boulder Summer Conference on Consumer Financial Decision Making*  
+**House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?**
 
-
-10/2024: **The Other Half: Monetary Policy Transmission for Households without Mortgages** presented at Financial Management Association 2024 Early Ideas
+**October 2024**  
+📌 *Financial Management Association (FMA) 2024*  
+- **House of Stolen Cards** – Main Session  
+- **The Other Half: Monetary Policy Transmission for Households without Mortgages** – Early Ideas Session
 
 ---
-## Honors & Fellowships:  
-12/2024: Included on the **List of Instructors Rated Excellent by Their Students**  for Fin 221
 
+## 🏆 Honors & Fellowships  
 
-05/2024: Received **Zwisler Fellowship** for academic excellence
+**December 2024**  
+- Included on the **List of Instructors Rated Excellent by Their Students** for FIN 221  
 
-04/2024: Received **Outstanding Asian and Asian American Graduate Student Leader** award from Asian American Culutral Center, UIUC
+**May 2024**  
+- Awarded the **Zwisler Fellowship** for academic excellence  
+
+**April 2024**  
+- Received the **Outstanding Asian and Asian American Graduate Student Leader** award from the Asian American Cultural Center, UIUC
