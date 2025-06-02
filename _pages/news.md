@@ -6,7 +6,7 @@ permalink: /news/
 
 <hr style="line-height: 2px; visibility:hidden;" />
 
-## 🧠 Research Update  
+## Research Update  
 **April 2025**  
 📄 **New Working Paper:**  
 <a href="https://www.nber.org/papers/w33644.pdf" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a>  
@@ -14,11 +14,11 @@ Now part of the NBER Working Paper Series.
 
 ---
 
-## 🎤 Conferences  
+## Conferences  
 
 **May 2025**  
 📌 *Boulder Summer Conference on Consumer Financial Decision Making*  
-**House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?**
+**House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?** – Poster Session
 
 **October 2024**  
 📌 *Financial Management Association (FMA) 2024*  
@@ -27,7 +27,7 @@ Now part of the NBER Working Paper Series.
 
 ---
 
-## 🏆 Honors & Fellowships  
+## Honors & Fellowships  
 
 **December 2024**  
 - Included on the **List of Instructors Rated Excellent by Their Students** for FIN 221  
