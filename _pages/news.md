@@ -4,13 +4,7 @@ title: "News"
 permalink: /news/  
 ---
 
-<hr style="line-height: 2px; visibility:hidden;" />
 
-## Research Update  
-**April 2025**  
-**New Working Paper:**  <a href="https://www.nber.org/papers/w33644.pdf" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a> now part of the NBER Working Paper Series.
-
----
 
 ## Conferences  
 **March 2026**  
@@ -35,7 +29,13 @@ permalink: /news/
 - **The Other Half: Monetary Policy Transmission for Households without Mortgages** – Early Ideas Session
 
 ---
+<hr style="line-height: 2px; visibility:hidden;" />
 
+## Research Update  
+**April 2025**  
+**New Working Paper:**  <a href="https://www.nber.org/papers/w33644.pdf" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a> now part of the NBER Working Paper Series.
+
+---
 ## Honors & Fellowships  
 **May 2025**  
 - Recipient of 2025 **Jagdish N. Sheth Fellowship** for academic excellence
