@@ -19,7 +19,7 @@ permalink: /news/
 
 **March 2026**  
 📌 *2026 Eastern Finance Association Meeting*  
-***House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?**
+**House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?**
 
 **January 2026**  
 📌 *The 2026 AFA Annual Meeting*  
