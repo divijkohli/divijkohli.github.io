@@ -13,6 +13,14 @@ permalink: /news/
 ---
 
 ## Conferences  
+**March 2026**  
+📌 *2026 MFA Annual Meeting*  
+**The Effects of Deleting Medical Debt from Consumer Credit Reports**
+
+**March 2026**  
+📌 *2026 Eastern Finance Association Meeting*  
+***House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?**
+
 **January 2026**  
 📌 *The 2026 AFA Annual Meeting*  
 **The Effects of Deleting Medical Debt from Consumer Credit Reports**
