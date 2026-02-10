@@ -13,7 +13,7 @@ Household Finance, Financial Inclusion, and Banking
 ## Working Papers:  
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
-with Victor Duarte, Julia Fonseca, and Julian Rief ([Draft]( {{ site.baseurl }}/DFKR_2025_03.pdf ))  
+with Victor Duarte, Julia Fonseca, and Julian Rief ([Draft]( {{ site.baseurl }}/DFKR_2026_02.pdf ))  
 
 #### Abstract  
 <p align="justify">
