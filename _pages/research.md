@@ -41,7 +41,7 @@ Presented at: Financial Management Association 2024 (coauthor), University of Il
 ## Works in Progress:  
 
 ### The Other Half: Monetary Policy Transmission for Households without Mortgages  
-with Justin Mohr and Yucheng Zhou 
+with Viraj Chordia, Justin Mohr and Yucheng Zhou 
 
 <p align="justify"><small>
 Presented at: Financial Management Association Early Ideas 2024
