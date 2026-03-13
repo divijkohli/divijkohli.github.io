@@ -20,9 +20,9 @@ Professor Julia Fonseca, Associate Professor of Finance, Gies College of Busines
 
 Email: juliaf@illinois.edu
 
-Professor Julian Rief, Associate Professor, Gies College of Business
+Professor Julian Reif, Associate Professor, Gies College of Business
 
-Email: jrief@illinois.edu
+Email: jreif@illinois.edu
 
 Professor Rustom M. Irani, Professor of Finance, Gies College of Business
 
