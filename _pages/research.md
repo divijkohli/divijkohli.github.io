@@ -20,7 +20,7 @@ We exploit a large-scale shift in U.S. credit card payment infrastructure to ide
 </p>
 ![Plot]( {{ site.baseurl }}/assets/images/KM.png )
 <p align="justify"><small>
-Presented at: Financial Management Association 2024 (coauthor), University of Illinois at Urbana-Champaign </small></p>  
+Presented at: Eastern Finance Association 2026, Boulder Summer Conference on Consumer Financial Decision Making 2025, University of Illinois Urbana-Champaign 2024, Financial Management Association 2024 (coauthor)  </small></p>  
 
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
@@ -33,7 +33,7 @@ One in seven Americans carry medical debt, with \$69 billion reported on consume
     <img src="{{ site.baseurl }}/assets/images/DFKR.png" alt="" width="800">
 </div>
 <p align="justify"><small>
-Presented at: University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor)</small></p>  
+Presented at: Midwest Finance Association 2026, American Finance Association 2026 (coauthor), University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor),  </small></p>  
 
 
 ### Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets
@@ -45,16 +45,5 @@ What happens to consumer borrowing when interest rates rise? Standard intuition 
 </p>
 ![Plot]( {{ site.baseurl }}/assets/images/CKMZ.png )
 <p align="justify"><small>
-Presented at: Financial Management Association 2024 (coauthor), University of Illinois at Urbana-Champaign </small></p>  
+Presented at: University of Illinois at Urbana-Champaign (2026, co-author) </small></p>  
 
-
----
-
-## Works in Progress:  
-
-### The Other Half: Monetary Policy Transmission for Households without Mortgages  
-with Viraj Chordia, Justin Mohr and Yucheng Zhou 
-
-<p align="justify"><small>
-Presented at: Financial Management Association Early Ideas 2024
-</small></p>  
