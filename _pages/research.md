@@ -33,7 +33,7 @@ One in seven Americans carry medical debt, with \$69 billion reported on consume
     <img src="{{ site.baseurl }}/assets/images/DFKR.png" alt="" width="800">
 </div>
 <p align="justify"><small>
-Presented at: Midwest Finance Association 2026, American Finance Association 2026 (coauthor), Georgetown McDonough 2025 (coauthor), University of Illinois at Urbana-Champaign </small></p>  
+Presented at: Midwest Finance Association 2026, American Finance Association 2026 (coauthor), Georgetown McDonough 2025 (coauthor), University of Illinois Urbana-Champaign </small></p>  
 
 
 ### Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets
@@ -45,5 +45,5 @@ What happens to consumer borrowing when interest rates rise? Standard intuition 
 </p>
 ![Plot]( {{ site.baseurl }}/assets/images/CKMZ.png )
 <p align="justify"><small>
-Presented at: University of Illinois at Urbana-Champaign 2026 (co-author) </small></p>  
+Presented at: University of Illinois at Urbana-Champaign 2026 (co-author), Financial Management Association Early Ideas 2024 </small></p>  
 
