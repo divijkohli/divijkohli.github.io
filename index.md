@@ -42,11 +42,11 @@ Household Finance, and Banking
 
 #### Education:
 
-| Degree | Institution | Years |
-|--------|-------------|-------|
-| PhD. Finance | Gies College of Business, UIUC | 2022–2027 (Expected) |
-| MSc. Applied Quantitative Finance | Madras School of Economics | 2015–2017 |
-| BSc. (Hons.) Mathematics | University of Delhi | 2011–2014 |
+<div class="edu-list">
+  <div class="edu-row"><span class="edu-degree">PhD. Finance</span><span class="edu-inst">Gies College of Business, UIUC</span><span class="edu-years">2022–2027 (Expected)</span></div>
+  <div class="edu-row"><span class="edu-degree">MSc. Applied Quantitative Finance</span><span class="edu-inst">Madras School of Economics</span><span class="edu-years">2015–2017</span></div>
+  <div class="edu-row"><span class="edu-degree">BSc. (Hons.) Mathematics</span><span class="edu-inst">University of Delhi</span><span class="edu-years">2011–2014</span></div>
+</div>
 
 #### Contact:
 **Office:** 607 E Gregory Dr, Champaign, IL 61820 &nbsp;·&nbsp; **Email:** divijk2@illinois.edu

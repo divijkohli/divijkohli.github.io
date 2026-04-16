@@ -250,6 +250,38 @@ blockquote {
   }
 }
 
+/* Education list on homepage */
+.edu-list {
+  margin: 0.8em 0 1.2em;
+  font-size: 0.9em;
+}
+
+.edu-row {
+  display: flex;
+  gap: 1em;
+  padding: 0.45em 0;
+  border-bottom: 1px solid #f0f0f0;
+  flex-wrap: wrap;
+
+  &:last-child { border-bottom: none; }
+}
+
+.edu-degree {
+  flex: 0 0 220px;
+  font-weight: 600;
+}
+
+.edu-inst {
+  flex: 1;
+  color: #555;
+}
+
+.edu-years {
+  flex: 0 0 auto;
+  color: #888;
+  white-space: nowrap;
+}
+
 /* Reference grid on homepage */
 .ref-grid {
   display: grid;

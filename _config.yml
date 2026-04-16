@@ -17,12 +17,6 @@ paginate_path: /blog/page:num/
 
 linkedin: "linkedin.com/in/divij-kohli-421640a1"
 
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-
 theme: jekyll-theme-minimal
 
 # Markdown
