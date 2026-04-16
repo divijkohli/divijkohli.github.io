@@ -16,30 +16,37 @@ policies in shaping consumer credit markets, and consumer behavior. I have MSc F
 Household Finance, and Banking
 
 #### References:
-Professor Julia Fonseca, Associate Professor of Finance, Gies College of Business
 
-Email: juliaf@illinois.edu
-
-Professor Julian Reif, Associate Professor, Gies College of Business
-
-Email: jreif@illinois.edu
-
-Professor Rustom M. Irani, Professor of Finance, Gies College of Business
-
-Email: rirani@illinois.edu
-
-Professor Heitor Almeida, Professor of Finance, Gies College of Business
-
-Email: halmeida@illinois.edu
+<div class="ref-grid">
+<div class="ref-card">
+  <strong>Julia Fonseca</strong><br>
+  Associate Professor of Finance, Gies College of Business<br>
+  <a href="mailto:juliaf@illinois.edu">juliaf@illinois.edu</a>
+</div>
+<div class="ref-card">
+  <strong>Julian Reif</strong><br>
+  Associate Professor, Gies College of Business<br>
+  <a href="mailto:jreif@illinois.edu">jreif@illinois.edu</a>
+</div>
+<div class="ref-card">
+  <strong>Rustom M. Irani</strong><br>
+  Professor of Finance, Gies College of Business<br>
+  <a href="mailto:rirani@illinois.edu">rirani@illinois.edu</a>
+</div>
+<div class="ref-card">
+  <strong>Heitor Almeida</strong><br>
+  Professor of Finance, Gies College of Business<br>
+  <a href="mailto:halmeida@illinois.edu">halmeida@illinois.edu</a>
+</div>
+</div>
 
 #### Education:
-PhD. Finance, Gies College of Business, UIUC, 2022-2027 (Expected)
 
-MSc. Applied Quantitative Finance, Madras School of Economics, 2015-2017
+| Degree | Institution | Years |
+|--------|-------------|-------|
+| PhD. Finance | Gies College of Business, UIUC | 2022–2027 (Expected) |
+| MSc. Applied Quantitative Finance | Madras School of Economics | 2015–2017 |
+| BSc. (Hons.) Mathematics | University of Delhi | 2011–2014 |
 
-BSc. (Hons.) Mathematics, University of Delhi, 2011-2014
-
-#### Contact Info:
-Office Address: 607 E Gregory Dr, Champaign, IL 61820
-
-Email: divijk2@illinois.edu
+#### Contact:
+**Office:** 607 E Gregory Dr, Champaign, IL 61820 &nbsp;·&nbsp; **Email:** divijk2@illinois.edu
