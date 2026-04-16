@@ -33,7 +33,7 @@ One in seven Americans carry medical debt, with \$69 billion reported on consume
     <img src="{{ site.baseurl }}/assets/images/DFKR.png" alt="" width="800">
 </div>
 <p align="justify"><small>
-Presented at: Midwest Finance Association 2026, American Finance Association 2026 (coauthor), University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor),  </small></p>  
+Presented at: Midwest Finance Association 2026, American Finance Association 2026 (coauthor), Georgetown McDonough 2025 (coauthor), University of Illinois at Urbana-Champaign </small></p>  
 
 
 ### Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets
@@ -41,9 +41,9 @@ with Viraj R. Chordiya, Justin Mohr, and Yucheng Zhou ([Draft]( {{ site.baseurl 
 
 #### Abstract  
 <p align="justify">
-What happens to consumer borrowing when interest rates rise? Standard intuition suggests that higher rates reduce borrowing by raising borrowing costs and tightening cash flow. We show that, over medium horizons, the opposite can occur. Using a representative panel of consumer credit records, we estimate dynamic responses of household debt. A 25 basis point increase in the 1-year rate raises total consumer debt by about 2\% over three years (\$1,539). These effects are highly uneven across households. Debt increases are concentrated among financially constrained borrowers, while high-credit-score consumers show little to no response. Additional evidence is consistent with an indirect channel: monetary tightening weakens labor-market income, and more exposed households respond by relying more on credit. Our results show that contractionary monetary policy can increase indebtedness among vulnerable households, highlighting an important distributional dimension of monetary transmission.
+What happens to consumer borrowing when interest rates rise? Standard intuition suggests that higher rates reduce borrowing by raising borrowing costs and tightening cash flow. We show that, over medium horizons, the opposite can occur. Using a representative panel of consumer credit records, we estimate dynamic responses of household debt. A 25 basis point increase in the 1-year rate raises total consumer debt by about 2% over three years ($1,539). These effects are highly uneven across households. Debt increases are concentrated among financially constrained borrowers, while high-credit-score consumers show little to no response. Additional evidence is consistent with an indirect channel: monetary tightening weakens labor-market income, and more exposed households respond by relying more on credit. Our results show that contractionary monetary policy can increase indebtedness among vulnerable households, highlighting an important distributional dimension of monetary transmission.
 </p>
 ![Plot]( {{ site.baseurl }}/assets/images/CKMZ.png )
 <p align="justify"><small>
-Presented at: University of Illinois at Urbana-Champaign (2026, co-author) </small></p>  
+Presented at: University of Illinois at Urbana-Champaign 2026 (co-author) </small></p>  
 
