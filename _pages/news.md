@@ -38,7 +38,7 @@ permalink: /news/
 
 ## Research Update 
 **April 2026**  
-**New Working Paper:**  <a href="[[https://www.nber.org/papers/w33644.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6503298)" target="_blank">Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets.</a>
+**New Working Paper:** Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets.
 
 **April 2025**  
 **New Working Paper:**  <a href="https://www.nber.org/papers/w33644.pdf" target="_blank">The Effects of Deleting Medical Debt from Consumer Credit Reports</a> now part of the NBER Working Paper Series.
