@@ -11,9 +11,20 @@ Household Finance, Financial Inclusion, and Banking
 ---
 
 ## Working Papers:  
+### House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?
+with Justin Mohr ([Draft]( {{ site.baseurl }}/KM_2025_04.pdf ))  
+
+#### Abstract  
+<p align="justify">
+ We examine how payment security shapes consumer credit markets by altering lenders’ exposure to fraud risk. Using account-level credit bureau data from 2004–2020, we exploit the 2014 BuySecure initiative—which catalyzed the nationwide adoption of chip-enabled (EMV) credit cards in the United States—as a natural experiment that sharply reduced both the probability of card-present fraud and lenders’ liability for it. We identify consumers who experience credit card fraud and construct a matched control group of observably similar individuals. The reform led to a large and persistent decline in fraud: overall incidence fell by roughly 65 percent, and repeat victimization collapsed. Lenders responded by expanding credit to fraud-exposed households, with average credit limits rising by more than \$3,000 (about 7.5 percent). Payment security thus operates as a supply-side shock, lowering lenders’ value-at-risk from fraud and restoring willingness to extend unsecured credit. Household responses, however, are asymmetric: fraud exposure continues to depress credit demand and heighten financial distress, particularly among low credit score consumers. These findings reveal that fraud is a priced lender-side risk and that payment infrastructure materially shapes credit allocation. While security innovation restores lender confidence, it does not rebuild consumer trust.
+</p>
+![Medical Debt Paper Chart]( {{ site.baseurl }}/assets/images/KM.png )
+<p align="justify"><small>
+Presented at: Financial Management Association 2024 (coauthor), University of Illinois at Urbana-Champaign </small></p>  
+
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
-with Victor Duarte, Julia Fonseca, and Julian Rief ([Draft]( {{ site.baseurl }}/DFKR_2026_02.pdf ))  
+with Victor Duarte, Julia Fonseca, and Julian Reif ([Draft]( {{ site.baseurl }}/DFKR_2026_02.pdf ))  
 
 #### Abstract  
 <p align="justify">
@@ -25,16 +36,17 @@ One in seven Americans carry medical debt, with \$69 billion reported on consume
 Presented at: University of Illinois at Urbana-Champaign, Georgetown McDonough (coauthor)</small></p>  
 
 
-### House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?
-with Justin Mohr ([Draft]( {{ site.baseurl }}/KM_2025_04.pdf ))  
+### Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets
+with Viraj R. Chordiya, Justin Mohr, and Yucheng Zhou ([Draft]( {{ site.baseurl }}/CKMZ_04_2026.pdf ))  
 
 #### Abstract  
 <p align="justify">
- We examine how payment security shapes consumer credit markets by altering lenders’ exposure to fraud risk. Using account-level credit bureau data from 2004–2020, we exploit the 2014 BuySecure initiative—which catalyzed the nationwide adoption of chip-enabled (EMV) credit cards in the United States—as a natural experiment that sharply reduced both the probability of card-present fraud and lenders’ liability for it. We identify consumers who experience credit card fraud and construct a matched control group of observably similar individuals. The reform led to a large and persistent decline in fraud: overall incidence fell by roughly 65 percent, and repeat victimization collapsed. Lenders responded by expanding credit to fraud-exposed households, with average credit limits rising by more than \$3,000 (about 7.5 percent). Payment security thus operates as a supply-side shock, lowering lenders’ value-at-risk from fraud and restoring willingness to extend unsecured credit. Household responses, however, are asymmetric: fraud exposure continues to depress credit demand and heighten financial distress, particularly among low credit score consumers. These findings reveal that fraud is a priced lender-side risk and that payment infrastructure materially shapes credit allocation. While security innovation restores lender confidence, it does not rebuild consumer trust.
+What happens to consumer borrowing when interest rates rise? Standard intuition suggests that higher rates reduce borrowing by raising borrowing costs and tightening cash flow. We show that, over medium horizons, the opposite can occur. Using a representative panel of consumer credit records, we estimate dynamic responses of household debt. A 25 basis point increase in the 1-year rate raises total consumer debt by about 2\% over three years (\$1,539). These effects are highly uneven across households. Debt increases are concentrated among financially constrained borrowers, while high-credit-score consumers show little to no response. Additional evidence is consistent with an indirect channel: monetary tightening weakens labor-market income, and more exposed households respond by relying more on credit. Our results show that contractionary monetary policy can increase indebtedness among vulnerable households, highlighting an important distributional dimension of monetary transmission.
 </p>
 ![Medical Debt Paper Chart]( {{ site.baseurl }}/assets/images/KM.png )
 <p align="justify"><small>
 Presented at: Financial Management Association 2024 (coauthor), University of Illinois at Urbana-Champaign </small></p>  
+
 
 ---
 
