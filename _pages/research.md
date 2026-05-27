@@ -11,7 +11,7 @@ Household Finance and Banking
 ---
 
 ## Working Papers:  
-### House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?
+### JMP: House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?
 with Justin Mohr ([Draft]( {{ site.baseurl }}/KM_2025_04.pdf ))  
 
 #### Abstract  
