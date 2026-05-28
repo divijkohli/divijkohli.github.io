@@ -48,4 +48,5 @@ What happens to consumer borrowing when interest rates rise? Standard intuition 
 Presented at: University of Illinois at Urbana-Champaign 2026 (co-author), Financial Management Association Early Ideas 2024 </small></p>  
 ---
 
-## Work in progress: Early Access to Credit: Good or Bad?
+## Work in Progress: 
+### Early Access to Credit: Good or Bad?
