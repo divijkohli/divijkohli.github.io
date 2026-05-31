@@ -7,7 +7,7 @@ permalink: /aboutme/
 
 ## पृष्ठभूमि/ Background:  
 
-<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:260px; width:38%;">
+<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:360px; width:45%;">
     <img src="{{ site.baseurl }}/assets/images/delhi.jpg" alt="" style="width:100%; border-radius:6px;">
 </div>
 <p align="justify"> I was born in a small village near the city of Kakrauli, Rajasthan. Soon we moved to New Delhi/ नई दिल्ली, where I stayed till compeletion of my undergraduate degree in Mathematics from University of Delhi. I spent about two years in Chennai for masters in Finance from Madras School of Economics. I then moved to Mumbai and Bengaluru for work. During 2020-21, I realized I was passionate about bringing social good through research and teaching. Therefore, I decided to pursue a career in academia. At present, I am in Urbana-Champaign, Illinois for my doctoral studies.</p>
@@ -19,7 +19,7 @@ permalink: /aboutme/
 
 ## मोटरसाइकिल/ Motorcycles:
 
-<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:240px; width:36%;">
+<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:320px; width:42%;">
     <img src="{{ site.baseurl }}/assets/images/motion_photo_7354688183388069347~2.jpg" alt="Divij on his Royal Enfield Meteor 350" style="width:100%; border-radius:6px;">
 </div>
 <p align="justify"> Few things clear my head the way a long motorcycle ride does. There is something about the open road, the hum of an engine, and the miles rolling by that no other experience quite replicates. I own two Royal Enfield motorcycles — a <strong style="color:#8B0000;">Meteor 350</strong> and a <strong style="color:#8B0000;">Super Meteor 650</strong> — and between the two of them, I have covered a lot of ground across the United States and India. Whether it is a quiet early-morning ride through the countryside or a longer multi-day trip through the hills, motorcycling has become one of my most cherished ways to unwind and explore. </p>
@@ -29,7 +29,7 @@ permalink: /aboutme/
 
 ## यात्रा रुचि/ Travel Interest:  
 
-<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:260px; width:38%;">
+<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:360px; width:45%;">
     <img src="{{ site.baseurl }}/assets/images/travel1.jpg" alt="" style="width:100%; border-radius:6px; margin-bottom:0.6em;">
     <img src="{{ site.baseurl }}/assets/images/travel2.jpg" alt="" style="width:100%; border-radius:6px;">
 </div>
@@ -41,7 +41,7 @@ permalink: /aboutme/
 
 ## पहल/ Initiative:  
 
-<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:260px; width:38%;">
+<div style="float:right; margin-left:1.8em; margin-bottom:1em; max-width:360px; width:45%;">
     <img src="{{ site.baseurl }}/assets/images/diwali2.png" alt="" style="width:100%; border-radius:6px; margin-bottom:0.6em;">
     <img src="{{ site.baseurl }}/assets/images/diwali1.jpg" alt="" style="width:100%; border-radius:6px;">
 </div>
