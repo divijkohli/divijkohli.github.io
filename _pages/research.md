@@ -6,7 +6,7 @@ layout: default
 ---
 <hr style="line-height: 2px; visibility:hidden;" />
 ## Research Interests:  
-Household Finance and Banking
+Household Finance and Financial Inclusion
 
 ---
 
