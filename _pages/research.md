@@ -20,7 +20,7 @@ We exploit a large-scale shift in U.S. credit card payment infrastructure to ide
 </p>
 ![Plot]( {{ site.baseurl }}/assets/images/KM.png )
 <div class="presented-at">
-Presented at: Eastern Finance Association 2026, Boulder Summer Conference on Consumer Financial Decision Making 2025, University of Illinois Urbana-Champaign 2024, Financial Management Association 2024 (coauthor)
+Presented at: 6th Tri-City-PhD Workshop on Empirical Research in Finance 2026, University of Illinois Urbana-Champaign 2026, Eastern Finance Association 2026, Boulder Summer Conference on Consumer Financial Decision Making Poster Session 2025, University of Illinois Urbana-Champaign 2024, Financial Management Association 2024 (coauthor)
 </div>
 
 
