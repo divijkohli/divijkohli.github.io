@@ -19,6 +19,9 @@ permalink: /aboutme/
 ## मोटरसाइकिल/ Motorcycles:
 
 <p align="justify"> Few things clear my head the way a long motorcycle ride does. There is something about the open road, the hum of an engine, and the miles rolling by that no other experience quite replicates. I own two Royal Enfield motorcycles — a <strong style="color:#8B0000;">Meteor 350</strong> and a <strong style="color:#8B0000;">Super Meteor 650</strong> — and between the two of them, I have covered a lot of ground across the United States and India. Whether it is a quiet early-morning ride through the countryside or a longer multi-day trip through the hills, motorcycling has become one of my most cherished ways to unwind and explore. </p>
+<div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/motion_photo_7354688183388069347~2.jpg" alt="Divij on his Royal Enfield Meteor 350" style="max-width:500px; width:100%; border-radius:6px;">
+</div>
 
 ---
 
