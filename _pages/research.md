@@ -20,7 +20,7 @@ We exploit a large-scale shift in U.S. credit card payment infrastructure to ide
 </p>
 ![Plot]( {{ site.baseurl }}/assets/images/KM.png )
 <div class="presented-at">
-Presented at: 6th Tri-City-PhD Workshop on Empirical Research in Finance 2026, University of Illinois Urbana-Champaign 2026, Eastern Finance Association 2026, Boulder Summer Conference on Consumer Financial Decision Making Poster Session 2025, University of Illinois Urbana-Champaign 2024, Financial Management Association 2024 (coauthor)
+Presented at: 6th Tri-City-PhD Workshop on Empirical Research in Finance 2026, University of Illinois Urbana-Champaign 2026, University of Mississippi 2026 (coauthor), Eastern Finance Association 2026, Boulder Summer Conference on Consumer Financial Decision Making Poster Session 2025, University of Illinois Urbana-Champaign 2024, Financial Management Association 2024 (coauthor)
 </div>
 
 
@@ -34,7 +34,7 @@ One in seven Americans carry medical debt, with \$69 billion reported on consume
     <img src="{{ site.baseurl }}/assets/images/DFKR.png" alt="" width="800">
 </div>
 <div class="presented-at">
-Presented at: Midwest Finance Association 2026, American Finance Association 2026 (coauthor), Georgetown McDonough 2025 (coauthor), University of Illinois Urbana-Champaign
+Presented at: NBER Summer Institute – Economics of Health 2026 (coauthor), Georgia Tech–Atlanta Fed Household Finance Conference 2026 (coauthor), Midwest Finance Association 2026, American Finance Association 2026 (coauthor), Georgetown McDonough 2025 (coauthor), University of Illinois Urbana-Champaign
 </div>
 
 
