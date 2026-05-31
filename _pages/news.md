@@ -83,7 +83,7 @@ permalink: /news/
 - Included on the **List of Instructors Rated Excellent by Their Students** for FIN 221  
 
 **May 2024**  
-- Awarded the **Zwisler Fellowship** for academic excellence  
+- Recipient of 2026 **Gies College of Business, Zwisler Fellowship** for academic excellence  
 
 **April 2024**  
 - Received the **Outstanding Asian and Asian American Graduate Student Leader** award from the Asian American Cultural Center, UIUC
