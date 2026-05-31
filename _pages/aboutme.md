@@ -12,7 +12,7 @@ permalink: /aboutme/
 
 <p align="justify"> I am a proud grandchild of survivors of Punjab's partition. Both my maternal and paternal grandparents were victim of the senseless division of western and eastern side of Punjab. They had to flee from their ancestral land, leaving behind everything our forefathers built, to reach safely to India in 1947. Their collective experience has always guided me and heavily influenced my world-view.  </p>
 <div style="text-align: center;"> 
-    <img src="{{ site.baseurl }}/assets/images/delhi.jpg" alt="" width="800">
+    <img src="{{ site.baseurl }}/assets/images/delhi.jpg" alt="" style="max-width:600px; width:100%;">
 </div>
 ---
 
@@ -26,10 +26,10 @@ permalink: /aboutme/
 
 <p align="justify"> I have been doing a lot of travelling all across the world. Apart from travelling in India and USA, I have travelled across Germany, Austria, Hungary, Budapest, Hong Kong, Mexico, Thailand, Canada, Hanoi, and Bali. In 2026 I will be going to Colombia for my next trip. </p>
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/travel1.jpg" alt="" width="800">
+    <img src="{{ site.baseurl }}/assets/images/travel1.jpg" alt="" style="max-width:600px; width:100%;">
 </div>
-<div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/travel2.jpg" alt="" width="800">
+<div style="text-align: center; margin-top:1em;">
+    <img src="{{ site.baseurl }}/assets/images/travel2.jpg" alt="" style="max-width:600px; width:100%;">
 </div>
 ---
 
@@ -40,8 +40,8 @@ You should check out some of the events that we organize including Diwali on the
     <a href="https://www.instagram.com/igsa_uiuc" target="_blank" style="color: #E4405F; text-decoration: none;">Instagram</a>.
 </p>
 <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/diwali2.png" alt="" width="800">
+    <img src="{{ site.baseurl }}/assets/images/diwali2.png" alt="" style="max-width:600px; width:100%;">
 </div>
-<div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/diwali1.jpg" alt="" width="800">
+<div style="text-align: center; margin-top:1em;">
+    <img src="{{ site.baseurl }}/assets/images/diwali1.jpg" alt="" style="max-width:600px; width:100%;">
 </div>
