@@ -8,6 +8,8 @@ permalink: /news/
 
 ## Conferences  
 
+<div class="conference-scroll" markdown="1">
+
 **May 2026**  
 📌 *2026 Boulder Summer Conference on Consumer Financial Decision Making*  
 **Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets**
@@ -32,6 +34,8 @@ permalink: /news/
 📌 *Financial Management Association (FMA) 2024*  
 - **House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?** 
 - **The Other Half: Monetary Policy Transmission for Households without Mortgages** – Early Ideas Session
+
+</div>
 
 ---
 <hr style="line-height: 2px; visibility:hidden;" />

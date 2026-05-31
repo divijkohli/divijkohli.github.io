@@ -321,6 +321,85 @@ blockquote {
   white-space: nowrap;
 }
 
+/* JMP badge on research page */
+.jmp-badge {
+  display: inline-block;
+  background: $brand-color;
+  color: white;
+  font-size: 0.6em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.2em 0.55em;
+  border-radius: 3px;
+  vertical-align: middle;
+  margin-right: 0.4em;
+  position: relative;
+  top: -0.1em;
+}
+
+/* Paper draft/link buttons on research page */
+.paper-link {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: $brand-color !important;
+  border: 1.5px solid $brand-color;
+  border-radius: 3px;
+  padding: 0.15em 0.6em;
+  margin-left: 0.4em;
+  vertical-align: middle;
+  transition: background 0.15s ease, color 0.15s ease;
+  background: white !important;
+  background-image: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  text-decoration: none;
+
+  &:hover {
+    background: $brand-color !important;
+    color: white !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+  }
+}
+
+/* Presented-at line below each paper */
+.presented-at {
+  font-size: 0.82em;
+  color: #888;
+  margin-top: 0.6em;
+  padding-left: 0.8em;
+  border-left: 2px solid #e0e0e0;
+  line-height: 1.55;
+}
+
+/* Scrollable conference list on news page */
+.conference-scroll {
+  max-height: 340px;
+  overflow-y: auto;
+  border: 1px solid #e8e8e8;
+  border-radius: 6px;
+  padding: 0.8em 1.2em;
+  background: #fafafa;
+  margin: 0.8em 0 1.5em;
+  font-size: 0.93em;
+  line-height: 1.7;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  &::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 3px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 3px;
+    &:hover { background: #aaa; }
+  }
+}
+
 /* Reference grid on homepage */
 .ref-grid {
   display: grid;
