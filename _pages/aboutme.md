@@ -34,7 +34,7 @@ I have my eyes set on Central America as well as Vietnam and China for my next t
 
 ## मोटरसाइकिल/ Motorcycles:
 
-<p align="justify"> Few things clear my head the way a long motorcycle ride does. There is something about the open road, the hum of an engine, and the miles rolling by that no other experience quite replicates. I own two Royal Enfield motorcycles — a <strong>Meteor 350</strong> and a <strong>Super Meteor 650</strong> — and between the two of them, I have covered a lot of ground across India. Whether it is a quiet early-morning ride through the countryside or a longer multi-day trip through the hills, motorcycling has become one of my most cherished ways to unwind and explore. </p>
+<p align="justify"> Few things clear my head the way a long motorcycle ride does. There is something about the open road, the hum of an engine, and the miles rolling by that no other experience quite replicates. I own two Royal Enfield motorcycles — a <strong>Meteor 350</strong> and a <strong>Super Meteor 650</strong> — and between the two of them, I have covered a lot of ground across the United States and India. Whether it is a quiet early-morning ride through the countryside or a longer multi-day trip through the hills, motorcycling has become one of my most cherished ways to unwind and explore. </p>
 
 ---
 
