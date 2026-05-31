@@ -29,7 +29,7 @@ permalink: /aboutme/
     <img src="{{ site.baseurl }}/assets/images/travel1.jpg" alt="" width="800">
 </div>
 <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/travel3.jpg" alt="" width="800">
+    <img src="{{ site.baseurl }}/assets/images/travel2.jpg" alt="" width="800">
 </div>
 ---
 
