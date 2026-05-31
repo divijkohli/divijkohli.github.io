@@ -10,7 +10,7 @@ body {
   font-size: $base-font-size;
   color: $text-color;
   background-color: $body-bg;
-  padding: 2em 1em;
+  padding: 2.5em 1.5em;
   text-rendering: optimizeLegibility;
   height: 100%;
 
@@ -27,11 +27,49 @@ h1,h2,h3,h4,h5,h6 {
   margin: 0;
   text-transform: inherit;
 }
+
+h2 {
+  font-size: 1.3em;
+  color: #1a1a1a;
+  margin: 2em 0 0.6em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid #ebebeb;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 1.05em;
+  color: $brand-color;
+  margin: 1.6em 0 0.35em;
+  line-height: 1.45;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 0.74em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #777;
+  margin: 1.4em 0 0.45em;
+  font-weight: 700;
+}
+
+.post-description {
+  font-size: 0.88em;
+  color: #666;
+  font-weight: 400;
+  margin: 0.1em 0 0;
+  font-style: italic;
+}
 .post-headline {
     display: flex;
-    justify-content: space-between; /* Aligns left and right */
-    font-size: 28px; /* Adjust size if needed */
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 28px;
     font-weight: bold;
+    padding-bottom: 0.15em;
+    border-bottom: 1px solid #e8e8e8;
+    margin-bottom: 0.2em;
 }
 
 .title-left, .title-right {
@@ -227,17 +265,18 @@ blockquote {
 
 /* Navigation bar */
 .site-nav {
-  margin: 1.2em 0 1.8em;
-  padding-bottom: 0.8em;
+  margin: 1em 0 2em;
+  padding: 0.8em 0;
+  border-top: 1px solid #e4e4e4;
   border-bottom: 1px solid #e4e4e4;
 
   a {
     font-weight: 600;
-    font-size: 0.88em;
-    letter-spacing: 0.06em;
+    font-size: 0.82em;
+    letter-spacing: 0.09em;
     text-transform: uppercase;
-    margin-right: 1.8em;
-    color: $text-color;
+    margin-right: 2em;
+    color: #555;
     transition: color 0.2s ease;
     background: none;
     box-shadow: none;
@@ -295,11 +334,12 @@ blockquote {
 }
 
 .ref-card {
-  padding: 0.7em 0.9em;
+  padding: 0.75em 1em;
   border-left: 3px solid $brand-color;
-  background: #fafafa;
+  background: #f9f7f7;
+  border-radius: 0 3px 3px 0;
   font-size: 0.88em;
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
 
