@@ -24,13 +24,9 @@ permalink: /aboutme/
 
 ## यात्रा रुचि/ Travel Interest:  
 
-<p align="justify"> Since 2019, I have been doing a lot of solo backpacking all across the world. Apart from travelling in India and USA, I have travelled across Germany, Austria, Hungary, Budapest, Hong Kong, Mexico and Thailand.
-I have my eyes set on Central America as well as Vietnam and China for my next trips. </p>
+<p align="justify"> I have been doing a lot of solo backpacking all across the world. Apart from travelling in India and USA, I have travelled across Germany, Austria, Hungary, Budapest, Hong Kong, Mexico, Thailand, Canada, Hanoi, and Bali. In 2026 I will be going to Colombia for my next trip. </p>
   <div style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/travel1.jpg" alt="" width="800">
-</div>
-<div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/travel2.jpg" alt="" width="800">
 </div>
 <div style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/travel3.jpg" alt="" width="800">
