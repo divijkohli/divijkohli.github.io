@@ -38,6 +38,26 @@ permalink: /news/
 </div>
 
 ---
+
+## Workshops
+
+<div class="conference-scroll" markdown="1">
+
+**June 2026**  
+📌 *Financial Literacy Research Boot Camp*, Stanford University
+
+**June 2026**  
+📌 *6th Tri-City-PhD Workshop on Empirical Research in Finance*, Frankfurt School of Finance & Management
+
+**July 2025**  
+📌 *2025 Summer School on Structural Estimation in Corporate Finance*
+
+**July 2024**  
+📌 *Workshop on Research Design for Causal Inference*, Northwestern University
+
+</div>
+
+---
 <hr style="line-height: 2px; visibility:hidden;" />
 
 ## Research Update 
