@@ -47,7 +47,7 @@ What happens to consumer borrowing when interest rates rise? Standard intuition 
 </p>
 ![Plot]( {{ site.baseurl }}/assets/images/CKMZ.png )
 <div class="presented-at">
-Presented at: University of Illinois at Urbana-Champaign 2026 (co-author), Financial Management Association Early Ideas 2024
+Presented at: Boulder Summer Conference on Consumer Financial Decision Making Poster Session 2026, University of Illinois at Urbana-Champaign 2026 (co-author), Financial Management Association Early Ideas 2024
 </div>
 
 ---
