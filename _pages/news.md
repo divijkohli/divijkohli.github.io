@@ -73,6 +73,9 @@ permalink: /news/
 
 ---
 ## Honors & Fellowships  
+**May 2026**  
+- Recipient of 2026 **Gies College of Business, Richard A. Erley Fellowship** for academic excellence
+
 **May 2025**  
 - Recipient of 2025 **Jagdish N. Sheth Fellowship** for academic excellence
   
