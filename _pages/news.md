@@ -80,7 +80,7 @@ permalink: /news/
 - Recipient of 2025 **Jagdish N. Sheth Fellowship** for academic excellence
   
 **December 2024**  
-- Included on the **List of Instructors Rated Excellent by Their Students** for FIN 221  
+- Included on the **List of Instructors Rated Excellent by Their Students** for FIN 221, Gies College of Business  
 
 **May 2024**  
 - Recipient of 2026 **Gies College of Business, Zwisler Fellowship** for academic excellence  
