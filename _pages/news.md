@@ -10,6 +10,10 @@ permalink: /news/
 
 <div class="conference-scroll" markdown="1">
 
+**July 2026**  
+📌 *NBER Summer Institute – Health Economics Workshop*  
+**The Effects of Deleting Medical Debt from Consumer Credit Reports** (Co-author)
+
 **May 2026**  
 📌 *2026 Boulder Summer Conference on Consumer Financial Decision Making*  
 **Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets**
