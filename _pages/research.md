@@ -61,3 +61,9 @@ Presented at: Boulder Summer Conference on Consumer Financial Decision Making Po
 </div>
 
 ---
+
+## Work in Progress:
+### The Value of Protection: Domestic Violence Intervention Courts and Women's Financial Outcomes
+with Filipe Correia and Justin Mohr
+
+---
