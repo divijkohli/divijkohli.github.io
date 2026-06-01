@@ -73,6 +73,9 @@ permalink: /news/
 
 ---
 ## Honors & Fellowships  
+
+<div class="conference-scroll" markdown="1">
+
 **May 2026**  
 - Recipient of 2026 **Gies College of Business, Richard A. Erley Fellowship** for academic excellence
 
@@ -87,3 +90,11 @@ permalink: /news/
 
 **April 2024**  
 - Received the **Outstanding Asian and Asian American Graduate Student Leader** award from the Asian American Cultural Center, UIUC
+
+**August 2016**  
+- Recipient of **Madras School of Economics, Course Topper Fellowship**
+
+**January 2016**  
+- Recipient of **Madras School of Economics, Course Topper Fellowship**
+
+</div>

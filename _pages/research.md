@@ -18,7 +18,11 @@ with Justin Mohr &nbsp; <a class="paper-link" href="{{ site.baseurl }}/KM_2025_0
 <p align="justify">
 We exploit a large-scale shift in U.S. credit card payment infrastructure to identify how payment security affects household credit outcomes. By comparing fraud-affected households to matched controls before and after the 2014 "BuySecure" initiative—which catalyzed the nationwide adoption of chip-enabled (EMV) technology—we demonstrate that while payment security restores lender willingness to lend, it fails to alleviate the demand-side scarring associated with identity theft. Using account-level credit bureau data from 2004–2020, we find that the reform led to a large and persistent decline in fraud: overall incidence fell by 70%, and repeat victimization by 61%. Lenders responded to this reduction in value-at-risk by expanding credit supply to previously fraud-exposed households, with average credit limits increasing by $3,409 (7.7%). Household responses, however, remain asymmetric; despite the improvement in security, fraud exposure continues to depress credit demand and heighten financial distress, particularly among low-score consumers. Our findings reveal that fraud is a priced lender-side risk and that payment infrastructure materially shapes credit allocation. Ultimately, while technological innovation restores lender confidence, it does not necessarily rebuild consumer trust.
 </p>
-![Plot]( {{ site.baseurl }}/assets/images/KM.png )
+<div class="paper-figure">
+  <a href="{{ site.baseurl }}/assets/images/KM.png" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/KM.png" alt="House of Stolen Cards figure">
+  </a>
+</div>
 <div class="presented-at">
 Presented at: 6th Tri-City-PhD Workshop on Empirical Research in Finance 2026, University of Illinois Urbana-Champaign 2026, University of Mississippi 2026 (coauthor), Eastern Finance Association 2026, Boulder Summer Conference on Consumer Financial Decision Making Poster Session 2025, University of Illinois Urbana-Champaign 2024, Financial Management Association 2024 (coauthor)
 </div>
@@ -30,8 +34,10 @@ with Victor Duarte, Julia Fonseca, and Julian Reif &nbsp; <a class="paper-link" 
 #### Abstract  
 <p align="justify">
 One in seven Americans carry medical debt, with \$69 billion reported on consumer credit reports. In April 2023, the three major credit bureaus stopped reporting medical debt collections below $500. We study the effects of this information deletion on consumer credit scores, credit access, repayment behavior, and payday borrowing. Regression discontinuity estimates comparing individuals just above and below the \$500 threshold show that the deletion reduced the reported number of medical debt collections by 61 percent. Despite expectations that removing negative credit information would improve credit outcomes for affected individuals, we find no evidence of benefits over the subsequent two years, ruling out even small effects. To interpret these findings, we build credit scoring models and show that medical debts, regardless of size, add minimal incremental information for default prediction beyond standard credit report variables, implying that they contribute negligibly to credit risk assessment. Our results suggest that eliminating medical debt collections entirely from credit reports would be unlikely to affect credit outcomes. </p>
-<div style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/DFKR.png" alt="" width="800">
+<div class="paper-figure">
+  <a href="{{ site.baseurl }}/assets/images/DFKR.png" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/DFKR.png" alt="Medical debt deletion figure">
+  </a>
 </div>
 <div class="presented-at">
 Presented at: NBER Summer Institute – Economics of Health 2026 (coauthor), Georgia Tech–Atlanta Fed Household Finance Conference 2026 (coauthor), Midwest Finance Association 2026, American Finance Association 2026 (coauthor), Georgetown McDonough 2025 (coauthor), University of Illinois Urbana-Champaign
@@ -45,7 +51,11 @@ with Viraj R. Chordiya, Justin Mohr, and Yucheng Zhou &nbsp; <a class="paper-lin
 <p align="justify">
 What happens to consumer borrowing when interest rates rise? Standard intuition suggests that higher rates reduce borrowing by raising borrowing costs and tightening cash flow. We show that, over medium horizons, the opposite can occur. Using a representative panel of consumer credit records, we estimate dynamic responses of household debt. A 25 basis point increase in the 1-year rate raises total consumer debt by about 2% over three years ($1,539). These effects are highly uneven across households. Debt increases are concentrated among financially constrained borrowers, while high-credit-score consumers show little to no response. Additional evidence is consistent with an indirect channel: monetary tightening weakens labor-market income, and more exposed households respond by relying more on credit. Our results show that contractionary monetary policy can increase indebtedness among vulnerable households, highlighting an important distributional dimension of monetary transmission.
 </p>
-![Plot]( {{ site.baseurl }}/assets/images/CKMZ.png )
+<div class="paper-figure">
+  <a href="{{ site.baseurl }}/assets/images/CKMZ.png" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/CKMZ.png" alt="Rates Up Balances Up figure">
+  </a>
+</div>
 <div class="presented-at">
 Presented at: Boulder Summer Conference on Consumer Financial Decision Making Poster Session 2026, University of Illinois at Urbana-Champaign 2026 (co-author), Financial Management Association Early Ideas 2024
 </div>
