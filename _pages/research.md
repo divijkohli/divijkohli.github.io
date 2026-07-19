@@ -30,7 +30,7 @@ Presented at: 6th Tri-City-PhD Workshop on Empirical Research in Finance 2026, U
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
 with Victor Duarte, Julia Fonseca, and Julian Reif &nbsp; <a class="paper-link" href="{{ site.baseurl }}/DFKR_2026_02.pdf" target="_blank">Draft</a>
-#### Revise & Resubmit, Journal of Finance
+Revise & Resubmit, Journal of Finance
 #### Abstract  
 <p align="justify">
 One in seven Americans carry medical debt, with \$69 billion reported on consumer credit reports. In April 2023, the three major credit bureaus stopped reporting medical debt collections below $500. We study the effects of this information deletion on consumer credit scores, credit access, repayment behavior, and payday borrowing. Regression discontinuity estimates comparing individuals just above and below the \$500 threshold show that the deletion reduced the reported number of medical debt collections by 61 percent. Despite expectations that removing negative credit information would improve credit outcomes for affected individuals, we find no evidence of benefits over the subsequent two years, ruling out even small effects. To interpret these findings, we build credit scoring models and show that medical debts, regardless of size, add minimal incremental information for default prediction beyond standard credit report variables, implying that they contribute negligibly to credit risk assessment. Our results suggest that eliminating medical debt collections entirely from credit reports would be unlikely to affect credit outcomes. </p>
