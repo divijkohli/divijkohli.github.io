@@ -29,7 +29,7 @@ Presented at: 6th Tri-City-PhD Workshop on Empirical Research in Finance 2026, U
 
 
 ### The Effects of Deleting Medical Debt from Consumer Credit Reports  
-with Victor Duarte, Julia Fonseca, and Julian Reif &nbsp; <a class="paper-link" href="{{ site.baseurl }}/DFKR_2026_02.pdf" target="_blank">Draft</a>
+with Victor Duarte, Julia Fonseca, and Julian Reif &nbsp; <a class="paper-link" href="{{ site.baseurl }}/DFKR_2026_05.pdf" target="_blank">Draft</a>
 
 Revise & Resubmit, Journal of Finance
 #### Abstract  
