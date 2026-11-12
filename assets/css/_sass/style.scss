@@ -1,5 +1,57 @@
+/* ==========================================================================
+   Theme tokens
+   Light is the default; dark applies when the visitor's system prefers dark
+   (unless they picked light with the toggle) or when they picked dark.
+   ========================================================================== */
+:root {
+  --bg:            #f8f4ea;   // cream paper
+  --surface:       #fffdf8;
+  --surface-alt:   #efe9da;
+  --text:          #1f2328;
+  --text-muted:    #57606a;
+  --text-faint:    #8a9199;
+  --rule:          #e2dac6;
+  --rule-strong:   #d3c9b1;
+  --name:          #8b1a1a;   // name in header: always red
+  --accent:        #5b6b2f;   // olive: links, buttons, borders, ribbons
+  --accent-hover:  #434f20;
+  --accent-soft:   #eef0e2;   // olive tint for card backgrounds
+  --accent-line:   #d0d6b4;   // olive hairlines / dividers
+  --on-accent:     #ffffff;
+  --shadow:        0 1px 2px rgba(20, 20, 20, .04), 0 4px 14px rgba(20, 20, 20, .06);
+  color-scheme: light;
+}
+
+@mixin dark-tokens {
+  --bg:            #14161a;
+  --surface:       #1c1f24;
+  --surface-alt:   #22262c;
+  --text:          #e6e3de;
+  --text-muted:    #a7adb4;
+  --text-faint:    #7c838b;
+  --rule:          #2c3036;
+  --rule-strong:   #3a3f46;
+  --name:          #e58a80;
+  --accent:        #b9c77f;
+  --accent-hover:  #ccd89a;
+  --accent-soft:   #25281b;
+  --accent-line:   #40472c;
+  --on-accent:     #14160c;
+  --shadow:        0 1px 2px rgba(0, 0, 0, .3), 0 4px 14px rgba(0, 0, 0, .25);
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { @include dark-tokens; }
+}
+:root[data-theme="dark"] { @include dark-tokens; }
+
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
 html, body {
-  height: 100%;
+  min-height: 100%;
 }
 
 body {
@@ -8,427 +60,380 @@ body {
   margin: 0 auto;
   line-height: $base-line-height;
   font-size: $base-font-size;
-  color: $text-color;
-  background-color: $body-bg;
-  padding: 2.5em 1.5em;
+  color: var(--text);
+  background-color: var(--bg);
+  padding: 2.75em 1.5em 2em;
   text-rendering: optimizeLegibility;
-  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color .2s ease, color .2s ease;
 
-  @media (prefers-color-scheme: dark) {
-    background-color: $body-bg-dark;
-    color: $text-color-dark;
+  @include media-query($on-palm) {
+    padding: 1.5em 16px 1.5em;
+    font-size: 16px;
   }
 }
 
-h1,h2,h3,h4,h5,h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
-  font-weight: bold;
-  line-height: 1.8;
+/* Teal ribbon across the top of every page */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 5px;
+  background: var(--accent);
+  z-index: 100;
+}
+
+::selection {
+  background: var(--accent-soft);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $serif-font-family;
+  font-weight: 600;
+  line-height: 1.3;
   margin: 0;
-  text-transform: inherit;
+  color: var(--text);
 }
 
 h2 {
-  font-size: 1.3em;
-  color: #1a1a1a;
-  margin: 2em 0 0.6em;
-  padding-bottom: 0.35em;
-  border-bottom: 2px solid #ebebeb;
-  font-weight: 700;
+  position: relative;
+  font-size: 1.45em;
+  margin: 2.2em 0 0.8em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid var(--accent-line);
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 56px;
+    height: 3px;
+    border-radius: 2px;
+    background: var(--accent);
+  }
 }
 
 h3 {
-  font-size: 1.05em;
-  color: $brand-color;
-  margin: 1.6em 0 0.35em;
-  line-height: 1.45;
-  font-weight: 600;
+  font-size: 1.12em;
+  margin: 1.8em 0 0.4em;
+  line-height: 1.4;
 }
 
 h4 {
-  font-size: 0.74em;
-  letter-spacing: 0.1em;
+  font-family: $base-font-family;
+  font-size: 0.72em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: #777;
-  margin: 1.4em 0 0.45em;
-  font-weight: 700;
+  color: var(--accent);
+  margin: 1.6em 0 0.5em;
+  font-weight: 600;
 }
 
-.post-description {
-  font-size: 0.88em;
-  color: #666;
-  font-weight: 400;
-  margin: 0.25em 0 0.6em;
-  font-style: italic;
-  line-height: 1.35;
-}
-.post-headline {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    font-size: 28px;
-    font-weight: bold;
-    padding-bottom: 0.15em;
-    border-bottom: 1px solid #e8e8e8;
-    margin-bottom: 0.2em;
+p { margin: 0 0 1em; }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--accent-line);
+  margin: 2.2em 0;
 }
 
-.title-left, .title-right {
-    color: #841808; /* Changes both names to red */
-    font-size: 28px; /* Reduce individual text size */
-}
-.description {
-    font-size: 14px; /* Adjust as needed */
-}
-.site-description {
-  margin-top: 20px;
-}
+/* Pages start with an invisible spacer <hr>; don't let it stack with heading margins */
+article > hr:first-child,
+.profile + hr { margin: 0; }
+article > hr:first-child + h2,
+article > h2:first-child { margin-top: 0; }
+hr + h2 { margin-top: 0; }
+
 a {
-  color: $brand-color;
+  color: var(--accent);
   text-decoration: none;
-  &:hover{
-    color: $text-color;
+  transition: color .15s ease;
 
-    @media (prefers-color-scheme: dark) {
-      color: $text-color-dark;
-    }
-
-  }
+  &:hover { color: var(--accent-hover); }
 }
 
+/* Links inside running text: subtle underline that thickens on hover */
+p a, li a {
+  color: var(--text);
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
 
-
-p a {
-  color: $text-color;
-  text-decoration: none;
-  background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
-  background: -moz-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
-  background: linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
-
-  -webkit-box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
-  box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
-
-
-  -webkit-transition: box-shadow ease 1s;
-  -moz-transition: box-shadow ease 1s;
-  transition: box-shadow ease 1s;
   &:hover {
-    color: lighten($background-color, 50%);
-    -webkit-box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
-    box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
-
-  }
-
-  @media (prefers-color-scheme: dark) {
-    color: $text-color-dark;
+    color: var(--accent);
+    text-decoration-thickness: 2.5px;
   }
 }
 
+strong { font-weight: 600; }
 
-figure {
-  margin: 0;
-}
+figure { margin: 0; }
 
 img {
-	max-width: 100%;
-    border-radius: 0%;
-  }
-
+  max-width: 100%;
+}
 
 pre,
 code {
   overflow: auto;
-  font-size: 0.7*$base-font-size;
-  border-radius: 3px;
-  border: 1px solid $brand-color;
+  font-size: 0.8em;
+  border-radius: 4px;
+  background: var(--surface-alt);
+  border: 1px solid var(--rule);
   > code {
     border: none;
   }
 }
 
-pre {
-  padding: 1em;
-}
-
-code {
-  padding: 0.1em;
-}
+pre { padding: 1em; }
+code { padding: 0.1em 0.3em; }
 
 blockquote {
-  border-left: 2px solid $brand-color;
+  border-left: 3px solid var(--accent);
+  margin: 1.2em 0;
   padding-left: 1em;
-  font-family: Georgia,Times,Times New Roman,serif;
-  font-size: 0.9*$base-font-size;
+  font-family: $serif-font-family;
   font-style: italic;
+  color: var(--text-muted);
 }
 
 
-.headline, .post-headline {
-  font-size: 2em;
-  margin-bottom: -0.4em;
-
-  @include media-query($on-palm) {
-    font-size: 2em;
-  }
-}
-
-/* Pagination style in index/home page */
-.pagination {
-  margin: 2em 0;
-  text-align: center;
-
-  a {
-    &:hover {
-      background-color: transparent;
-      color: #333;
-    }
-  }
-
-  a, span {
-    padding: 7px 18px;
-    border: 1px solid #eee;
-    margin-left: -4px;
-    margin-right: -4px;
-    background-color: transparent;
-    display: inline-block;
-  }
-}
-
-
-/* Add video class for iframes to make them responsive */
-.video {
-  width: 100%;
-}
-
-/* Add video class for iframes to make them responsive */
-.video {
-  width: 100%;
-  height: 360px;
-  @include media-query($on-laptop) {
-    height: 300px;
-  }
-  @include media-query($on-palm) {
-    height: 180px;
-  }
-}
-
-/* Horizontal Divider */
-.divider {
-  margin: 1em;
-}
-.scroll {
-  white-space: nowrap;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
-.scroll::-webkit-scrollbar {
-  height: 8px; /* Customize scrollbar height */
-  background-color: #DC143C; /* Background color for the scrollbar track */
-}
-.scroll::-webkit-scrollbar-thumb {
-  background: #8B0000; /* Color of the scrollbar thumb */
-  border-radius: 10px; /* Rounded edges on the scrollbar thumb */
-}
-.scroll::-webkit-scrollbar-thumb:hover {
-  background: #8B0000; /* Color of the scrollbar thumb on hover */
-}
-.scroll a { margin: 0; } /* Remove all space between links */
-
-
-
-/* Button */
-.simplebutton {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  outline: none;
-  cursor: pointer;
-  font-size: 16px;
-  line-height: 20px;
-  font-weight: 600;
-  border-radius: 8px;
-  padding: 13px 23px;
-  border: 1px solid #222222;
-  transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
-  background: #fff;
-  color: #222222;
-  :hover {
-      border-color: #000000;
-      background: #ff0000;
-  }
-}
-
-/* Article list in blog and archive page */
-.article-list {
-  margin: 1em 0;
-}
-
-/* Navigation bar */
-.site-nav {
-  margin: 1em 0 2em;
-  padding: 0.8em 0;
-  border-top: 1px solid #e4e4e4;
-  border-bottom: 1px solid #e4e4e4;
-
-  a {
-    font-weight: 600;
-    font-size: 0.82em;
-    letter-spacing: 0.09em;
-    text-transform: uppercase;
-    margin-right: 2em;
-    color: #555;
-    transition: color 0.2s ease;
-    background: none;
-    box-shadow: none;
-
-    &:hover {
-      color: $brand-color;
-      background: none;
-      box-shadow: none;
-    }
-  }
-}
-
-/* Education list on homepage */
-.edu-list {
-  margin: 0.8em 0 1.2em;
-  font-size: 0.9em;
-}
-
-.edu-row {
+/* ==========================================================================
+   Header
+   ========================================================================== */
+.post-headline {
   display: flex;
+  justify-content: space-between;
+  align-items: baseline;
   gap: 1em;
-  padding: 0.45em 0;
-  border-bottom: 1px solid #f0f0f0;
   flex-wrap: wrap;
-
-  &:last-child { border-bottom: none; }
-}
-
-.edu-degree {
-  flex: 0 0 220px;
+  margin: 0;
+  padding: 0;
+  border: 0;
   font-weight: 600;
+  line-height: 1.15;
 }
 
-.edu-inst {
-  flex: 1;
-  color: #555;
+.title-left {
+  font-family: $serif-font-family;
+  font-size: 2.2rem;
+  letter-spacing: -0.01em;
+  color: var(--name);
+
+  @include media-query($on-palm) { font-size: 1.85rem; }
 }
 
-.edu-years {
-  flex: 0 0 auto;
-  color: #888;
-  white-space: nowrap;
+.title-right {
+  font-family: 'Tiro Devanagari Hindi', $serif-font-family;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--name);
+
+  @include media-query($on-palm) { font-size: 1.3rem; }
 }
 
-/* JMP badge on research page */
-.jmp-badge {
-  display: inline-block;
-  background: $brand-color;
-  color: white;
-  font-size: 0.6em;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  padding: 0.2em 0.55em;
-  border-radius: 3px;
-  vertical-align: middle;
-  margin-right: 0.4em;
-  position: relative;
-  top: -0.1em;
+.post-description {
+  font-family: $base-font-family;
+  font-size: 0.95em;
+  color: var(--text-muted);
+  font-weight: 400;
+  margin: 0.4em 0 0;
+  line-height: 1.4;
 }
 
-/* Paper draft/link buttons on research page */
-.paper-link {
-  display: inline-block;
-  font-size: 0.78em;
-  font-weight: 600;
-  color: $brand-color !important;
-  border: 1.5px solid $brand-color;
-  border-radius: 3px;
-  padding: 0.15em 0.6em;
-  margin-left: 0.4em;
-  vertical-align: middle;
-  transition: background 0.15s ease, color 0.15s ease;
-  background: white !important;
-  background-image: none !important;
-  box-shadow: none !important;
-  -webkit-box-shadow: none !important;
-  text-decoration: none;
+
+/* ==========================================================================
+   Navigation
+   ========================================================================== */
+.site-nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25em 1.6em;
+  margin: 1.4em 0 2.4em;
+  padding: 0.7em 0;
+  border-top: 1px solid var(--accent-line);
+  border-bottom: 2px solid var(--accent);
+
+  a {
+    font-weight: 500;
+    font-size: 0.8em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding: 0.2em 0;
+    border-bottom: 2px solid transparent;
+
+    &:hover { color: var(--accent); }
+
+    &.active {
+      color: var(--text);
+      border-bottom-color: var(--accent);
+    }
+  }
+
+  .nav-cv {
+    color: var(--accent);
+    border: 1.5px solid var(--accent);
+    border-radius: 999px;
+    padding: 0.2em 0.9em;
+
+    &:hover {
+      background: var(--accent);
+      color: var(--on-accent);
+    }
+  }
+
+  @include media-query($on-palm) {
+    gap: 0.4em 1.1em;
+  }
+}
+
+.theme-toggle {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--rule-strong);
+  color: var(--text-muted);
+  border-radius: 999px;
+  width: 2.1em;
+  height: 2.1em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.85em;
+  padding: 0;
+  transition: color .15s ease, border-color .15s ease;
 
   &:hover {
-    background: $brand-color !important;
-    color: white !important;
-    box-shadow: none !important;
-    -webkit-box-shadow: none !important;
+    color: var(--accent);
+    border-color: var(--accent);
   }
+
+  .icon-sun { display: none; }
 }
 
-/* Presented-at line below each paper */
-.presented-at {
-  font-size: 0.82em;
-  color: #888;
-  margin-top: 0.6em;
-  padding-left: 0.8em;
-  border-left: 2px solid #e0e0e0;
-  line-height: 1.55;
-}
-
-/* Scrollable conference list on news page */
-.conference-scroll {
-  max-height: 340px;
-  overflow-y: auto;
-  border: 1px solid #e8e8e8;
-  border-radius: 6px;
-  padding: 0.8em 1.2em;
-  background: #fafafa;
-  margin: 0.8em 0 1.5em;
-  font-size: 0.93em;
-  line-height: 1.7;
-
-  &::-webkit-scrollbar {
-    width: 6px;
-  }
-  &::-webkit-scrollbar-track {
-    background: #f0f0f0;
-    border-radius: 3px;
-  }
-  &::-webkit-scrollbar-thumb {
-    background: #ccc;
-    border-radius: 3px;
-    &:hover { background: #aaa; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle {
+    .icon-sun { display: inline; }
+    .icon-moon { display: none; }
   }
 }
+:root[data-theme="dark"] .theme-toggle {
+  .icon-sun { display: inline; }
+  .icon-moon { display: none; }
+}
 
-/* Paper figures on research page */
-.paper-figure {
-  margin: 1.4em auto 0.6em;
-  text-align: center;
 
-  img {
+/* ==========================================================================
+   Homepage
+   ========================================================================== */
+.profile {
+  border-radius: 10px;
+  border: 3px solid var(--surface);
+  box-shadow: 0 0 0 2px var(--accent), var(--shadow);
+  margin: 0.3rem 0 1.2rem 2rem;
+  width: 250px;
+  height: auto;
+
+  @include media-query($on-palm) {
+    float: none !important;
     display: block;
-    margin: 0 auto;
-    max-width: 92%;
-    border: 1px solid #e8e8e8;
-    border-radius: 4px;
-    padding: 6px;
-    background: #fff;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.07);
-    transition: box-shadow 0.2s ease;
+    margin: 0 auto 1.5rem;
+    width: 70%;
+    max-width: 260px;
+  }
+}
+
+.left  { float: left; }
+.right { float: right; }
+
+/* Job market paper callout */
+.jmp-callout {
+  clear: both;
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-line);
+  border-left: 5px solid var(--accent);
+  border-radius: 8px;
+  padding: 1.2em 1.4em 1.3em;
+  margin: 1.8em 0 0.5em;
+  box-shadow: var(--shadow);
+}
+
+.jmp-label {
+  font-size: 0.7em;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.35em;
+}
+
+.jmp-title {
+  display: block;
+  font-family: $serif-font-family;
+  font-size: 1.25em;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--text) !important;
+  text-decoration: none !important;
+
+  &:hover { color: var(--accent) !important; }
+}
+
+.jmp-meta {
+  font-size: 0.88em;
+  color: var(--text-muted);
+  margin: 0.3em 0 0.9em;
+}
+
+.jmp-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45em;
+  font-size: 0.85em;
+  font-weight: 500;
+  padding: 0.45em 1em;
+  border-radius: 6px;
+  border: 1.5px solid var(--rule-strong);
+  color: var(--text) !important;
+  text-decoration: none !important;
+  transition: background .15s ease, border-color .15s ease, color .15s ease;
+
+  &:hover {
+    border-color: var(--accent);
+    color: var(--accent) !important;
+  }
+
+  .jmp-callout &:not(.btn-primary) { background: var(--surface); }
+
+  &.btn-primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--on-accent) !important;
 
     &:hover {
-      box-shadow: 0 3px 10px rgba(0,0,0,0.13);
+      background: var(--accent-hover);
+      border-color: var(--accent-hover);
+      color: var(--on-accent) !important;
     }
   }
 }
 
-/* Reference grid on homepage */
+/* Reference grid */
 .ref-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0.8em 1.5em;
-  margin: 0.8em 0 1.2em;
+  gap: 0.8em;
+  margin: 0.6em 0 1.4em;
 
   @include media-query($on-palm) {
     grid-template-columns: 1fr;
@@ -436,12 +441,308 @@ blockquote {
 }
 
 .ref-card {
-  padding: 0.75em 1em;
-  border-left: 3px solid $brand-color;
-  background: #f9f7f7;
-  border-radius: 0 3px 3px 0;
-  font-size: 0.88em;
-  line-height: 1.6;
+  padding: 0.85em 1.05em;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px 8px 8px 4px;
+  font-size: 0.86em;
+  line-height: 1.55;
+  color: var(--text-muted);
+
+  strong {
+    display: inline-block;
+    font-family: $serif-font-family;
+    font-size: 1.12em;
+    color: var(--text);
+    margin-bottom: 0.1em;
+  }
+
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+}
+
+/* Education list */
+.edu-list {
+  margin: 0.6em 0 1.4em;
+  font-size: 0.92em;
+}
+
+.edu-row {
+  display: flex;
+  gap: 1em;
+  padding: 0.55em 0;
+  border-bottom: 1px solid var(--accent-line);
+  flex-wrap: wrap;
+
+  &:last-child { border-bottom: none; }
+}
+
+.edu-degree {
+  flex: 0 0 230px;
+  font-weight: 600;
+}
+
+.edu-inst {
+  flex: 1;
+  color: var(--text-muted);
+}
+
+.edu-years {
+  flex: 0 0 auto;
+  color: var(--accent);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+@include media-query($on-palm) {
+  .edu-row { gap: 0.1em 1em; }
+  .edu-degree { flex-basis: 100%; }
 }
 
 
+/* ==========================================================================
+   Research page
+   ========================================================================== */
+.jmp-badge {
+  display: inline-block;
+  background: var(--accent);
+  color: var(--on-accent);
+  font-family: $base-font-family;
+  font-size: 0.58em;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.25em 0.6em;
+  border-radius: 4px;
+  vertical-align: middle;
+  margin-right: 0.45em;
+  position: relative;
+  top: -0.12em;
+}
+
+.paper-link {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 500;
+  color: var(--accent) !important;
+  border: 1.5px solid var(--accent);
+  border-radius: 999px;
+  padding: 0.1em 0.8em;
+  margin-left: 0.4em;
+  vertical-align: middle;
+  text-decoration: none !important;
+  transition: background .15s ease, color .15s ease;
+
+  &:hover {
+    background: var(--accent);
+    color: var(--on-accent) !important;
+  }
+}
+
+/* Collapsible abstract */
+details.abstract {
+  margin: 0.9em 0 0;
+
+  summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.72em;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: "";
+      width: 0.45em;
+      height: 0.45em;
+      border-right: 2px solid currentColor;
+      border-bottom: 2px solid currentColor;
+      transform: rotate(-45deg);
+      transition: transform .15s ease;
+    }
+
+    &::after { content: " · show"; color: var(--text-faint); letter-spacing: 0.06em; }
+
+    &:hover { color: var(--accent-hover); }
+  }
+
+  &[open] summary::before { transform: rotate(45deg); }
+  &[open] summary::after  { content: " · hide"; }
+
+  p { margin-top: 0.6em; }
+}
+
+/* News page pins */
+.news-pin {
+  color: var(--accent);
+  font-size: 0.8em;
+  margin-right: 0.2em;
+  transform: rotate(30deg);
+}
+
+.presented-at {
+  font-size: 0.82em;
+  color: var(--text-muted);
+  margin-top: 0.8em;
+  padding-left: 0.9em;
+  border-left: 3px solid var(--accent-line);
+  line-height: 1.6;
+}
+
+.paper-figure {
+  margin: 1.4em auto 0.6em;
+  text-align: center;
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 92%;
+    border: 1px solid var(--accent-line);
+    border-radius: 6px;
+    padding: 6px;
+    background: #fff;   /* keep figures on white so charts stay legible in dark mode */
+    box-shadow: var(--shadow);
+    transition: transform .2s ease;
+
+    &:hover { transform: translateY(-2px); }
+  }
+}
+
+
+/* ==========================================================================
+   News page
+   ========================================================================== */
+.conference-scroll {
+  max-height: 340px;
+  overflow-y: auto;
+  border: 1px solid var(--accent-line);
+  border-left: 4px solid var(--accent);
+  border-radius: 4px 8px 8px 4px;
+  padding: 0.9em 1.2em;
+  background: var(--surface);
+  margin: 0.8em 0 1.5em;
+  font-size: 0.93em;
+  line-height: 1.7;
+
+  &::-webkit-scrollbar { width: 6px; }
+  &::-webkit-scrollbar-track { background: transparent; }
+  &::-webkit-scrollbar-thumb {
+    background: var(--accent-line);
+    border-radius: 3px;
+  }
+}
+
+
+/* ==========================================================================
+   Misc (blog / legacy helpers)
+   ========================================================================== */
+.headline {
+  font-size: 2em;
+}
+
+.pagination {
+  margin: 2em 0;
+  text-align: center;
+
+  a, span {
+    padding: 7px 18px;
+    border: 1px solid var(--rule);
+    margin-left: -4px;
+    margin-right: -4px;
+    display: inline-block;
+  }
+}
+
+.video {
+  width: 100%;
+  height: 360px;
+  @include media-query($on-laptop) { height: 300px; }
+  @include media-query($on-palm) { height: 180px; }
+}
+
+.divider { margin: 1em; }
+
+.scroll {
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  a { margin: 0; }
+}
+
+.simplebutton {
+  @extend .btn;
+}
+
+.article-list { margin: 1em 0; }
+
+.accent { color: var(--accent); }
+
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+footer {
+  clear: both;
+  margin-top: 3.5em;
+  padding-top: 1.5em;
+  border-top: 2px solid var(--accent);
+}
+
+.copy {
+  color: var(--text-faint);
+  text-align: center;
+  margin-top: 0.6em;
+}
+
+.rounded-social-buttons {
+  text-align: center;
+
+  .social-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.3rem;
+    height: 2.3rem;
+    margin: 0 0.2rem;
+    border-radius: 50%;
+    border: 1px solid var(--accent-line);
+    background: transparent !important;
+    color: var(--accent);
+    font-size: 1rem;
+    transition: color .15s ease, border-color .15s ease;
+
+    &:hover, &:focus {
+      color: var(--on-accent);
+      background: var(--accent) !important;
+      border-color: var(--accent);
+      transform: none;
+    }
+  }
+}
+
+/* Publication status line (e.g. R&R) on research page */
+.paper-status {
+  display: inline-block;
+  margin-top: 0.5em;
+  font-size: 0.85em;
+  font-weight: 500;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-line);
+  border-radius: 999px;
+  padding: 0.15em 0.8em;
+}

@@ -1,7 +1,11 @@
 <nav class="site-nav">
-  <a href="{{ site.baseurl }}/">Home</a>
-  <a href="{{ site.baseurl }}/research/">Research</a>
-  <a href="{{ site.baseurl }}/Kohli_Divij_CV.pdf" target="_blank">CV</a>
-  <a href="{{ site.baseurl }}/news/">News</a>
-  <a href="{{ site.baseurl }}/aboutme/">About Me</a>
+  <a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+  <a href="{{ site.baseurl }}/research/" {% if page.url == "/research/" %}class="active"{% endif %}>Research</a>
+  <a href="{{ site.baseurl }}/news/" {% if page.url == "/news/" %}class="active"{% endif %}>News</a>
+  <a href="{{ site.baseurl }}/aboutme/" {% if page.url == "/aboutme/" %}class="active"{% endif %}>About Me</a>
+  <a class="nav-cv" href="{{ site.baseurl }}/Kohli_Divij_CV.pdf" target="_blank">CV</a>
+  <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+    <i class="fas fa-moon icon-moon" aria-hidden="true"></i>
+    <i class="fas fa-sun icon-sun" aria-hidden="true"></i>
+  </button>
 </nav>

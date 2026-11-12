@@ -8,9 +8,20 @@ published: true
 ---
 <hr style="line-height: 2px; visibility:hidden;" />
 
-<p align="justify"> Welcome to my website! I am a fourth year Finance doctoral candidate at the Gies College of Business, University of Illinois Urbana-Champaign. 
+<p align="justify"> Welcome to my website! I am a fifth year Finance doctoral candidate at the Gies College of Business, University of Illinois Urbana-Champaign. 
 My research interests lie in the area of Household Finance and Financial Inclusion. In particular, my research examines the impact of technological innovations and financial
 policies in shaping consumer credit markets, and consumer behavior. I have MSc Finance from Madras School of Economics and BSc (Hons.) Mathematics from University of Delhi. Before starting doctoral studies, I worked in industry with Barclays and McKinsey. </p>
+
+<div class="jmp-callout">
+  <div class="jmp-label">Job Market Paper</div>
+  <a class="jmp-title" href="{{ site.baseurl }}/research/">House of Stolen Cards: Does Payment Security Improve Credit Outcomes for Households?</a>
+  <div class="jmp-meta">with Justin Mohr</div>
+  <div class="jmp-actions">
+    <a class="btn btn-primary" href="{{ site.baseurl }}/KM_2025_04.pdf" target="_blank"><i class="far fa-file-pdf"></i> Read the paper</a>
+    <a class="btn" href="{{ site.baseurl }}/research/">Abstract &amp; other papers</a>
+    <a class="btn" href="{{ site.baseurl }}/Kohli_Divij_CV.pdf" target="_blank"><i class="far fa-file-alt"></i> CV</a>
+  </div>
+</div>
 
 #### Research Interests:
 Household Finance and Financial Inclusion

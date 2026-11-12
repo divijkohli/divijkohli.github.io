@@ -4,10 +4,6 @@
 
 
 @charset "utf-8";
-$brand-color:  white;
-// Color scheme for light
-$body-bg: #fdfdfd;
-$body-bg-dark: #fdfdfd;
 // Width of the content area
 $content-width:    840px;
 $on-phone:         500px;
@@ -40,10 +36,6 @@ $on-laptop:        1200px;
 // for this change
 
 @import 'variables';
-@import 'footer-social';
 @import 'projects';
-@import 'profile';
-@import 'footer';
 @import 'style';
-@import 'google-fonts';
 @import 'syntax-highlighting';

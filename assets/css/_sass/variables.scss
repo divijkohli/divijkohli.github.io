@@ -1,22 +1,25 @@
-$base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   18px;
+// Typography
+$base-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+$serif-font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+$base-font-size:   17px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.65;
+$base-line-height: 1.7;
 
 $spacing-unit:     25px;
+
+// Colors live in CSS custom properties (see top of style.scss) so that
+// light/dark mode can switch at runtime. To change the accent color,
+// edit --accent in BOTH the light and dark blocks there.
 $light-gray: gray;
-$text-color:        #222222;
-$background-color: #fdfdfd;
-$brand-color:      #8B0000;
-$projectbox-text:  #222222;
+$text-color:       var(--text);
+$background-color: var(--bg);
+$brand-color:      var(--accent);
+$projectbox-text:  var(--text);
 
-// Color scheme for light
-$body-bg: #fdfdfd;
-$projectbox: lighten(#000000, 2%);
-$text-color:  #222222;
+$body-bg: var(--bg);
+$projectbox: var(--surface);
 
-// Color scheme for dark modes
-$body-bg-dark: #fdfdfd;
-$projectbox-dark: lighten(#000000, 2%);
-$text-color-dark:  #222222;
+$body-bg-dark: var(--bg);
+$projectbox-dark: var(--surface);
+$text-color-dark: var(--text);
